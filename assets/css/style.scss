@@ -25,13 +25,12 @@
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
-  color: rgba(255,255,255,0.7);
+  color: rgba(255,255,255,1.0);
   border-width: 0px;
   border-radius: 0.0rem;
 }
 .btn:hover {
- color: rgba(255,255,255,0.0);
- opacity: 0.0;
+ color: rgba(255,255,255,0.1);
  text-decoration:none;
  background-color:rgba(255,255,255,1.0);
  border-color:rgba(255,255,255,0.0);
