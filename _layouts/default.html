@@ -13,12 +13,14 @@
    
     
         <header class="page-header" role="banner">
-          <h1 class="project-name"><a href="/">{{ site.title | default: site.github.repository_name }}</a></h1>
-          <h2 class="project-tagline"><a href="/" class="project-tagline">{{ site.description | default: site.github.project_tagline }}</a></h2>
+          <a href="/" class="hidden-link">
+            <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1></a>
+            <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+          </a>
          
       
-        <a href="/work.html" class="btn">Work</a>
-        <a href="/about.html" class="btn">About</a>
+          <a href="/work.html" class="btn">Work</a>
+          <a href="/about.html" class="btn">About</a>
         
     </header>
 
