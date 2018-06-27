@@ -1,16 +1,5 @@
 theme: jekyll-theme-cayman
 title: Holden Sparacino
-description: Portfolio and blog
-
-twitter_username: holdensparacino
-instagram_username: holdensparacino
-
-disqus:
-  shortname: holdensparacino
+description: Graduate research assistant interested in water quality, community-based science and the outdoors
   
 google_analytics: UA-71628943-4
-
-
-header_pages:
-  - about.md
-  - portfolio.md
