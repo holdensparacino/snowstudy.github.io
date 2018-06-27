@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+.page-header {
+  background-image: url("20170729_110740.jpg");
+}
+
 .hidden-link, .hidden-link:hover {
   color: #ffffff;
   text-decoration: none;
