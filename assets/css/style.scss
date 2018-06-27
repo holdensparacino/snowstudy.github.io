@@ -3,6 +3,6 @@
 
 @import "{{ site.theme }}";
 
-.project-name, project-tagline {
-  color: #ffffff
+a.project-name, a.project-tagline {
+  text-color: #ffffff
 }
