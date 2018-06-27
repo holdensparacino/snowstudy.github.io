@@ -3,6 +3,7 @@
 
 @import "{{ site.theme }}";
 
-.hidden-link {
-  color: #ffffff
+.hidden-link, .hidden-link:hover {
+  color: #ffffff;
+  text-decoration: none;
 }
