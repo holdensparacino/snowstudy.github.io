@@ -25,14 +25,14 @@
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
-  color: rgba(255,255,255,1.0);
+  color: rgba(255,255,255,0.8);
   border-width: 0px;
   border-radius: 0.0rem;
 }
 .btn:hover {
- color: rgba(255,255,255,0.1);
+ color: rgba(255,255,255,1.0);
  text-decoration:none;
- background-color:rgba(255,255,255,1.0);
+ background-color:rgba(255,255,255,0.4);
  border-color:rgba(255,255,255,0.0);
 }
 
