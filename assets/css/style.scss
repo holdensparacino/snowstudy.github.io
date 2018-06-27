@@ -28,11 +28,12 @@
   color: rgba(255,255,255,0.7);
   border-width: 0px;
   border-radius: 0.0rem;
-  
-  &hover {
-    color: rgba(255,255,255,0.0);
-    background-color: rgba(255,255,255,1);
-  }
+}
+.btn:hover {
+ color: rgba(255,255,255,0.0);
+ text-decoration:none;
+ background-color:rgba(255,255,255,1.0);
+ border-color:rgba(255,255,255,0.0);
 }
 
   
