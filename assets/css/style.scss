@@ -5,6 +5,11 @@
 
 .page-header {
   background-image: url("/assets/20170729_110740.jpg");
+  width: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-size: cover;
 }
 
 .hidden-link, .hidden-link:hover {
