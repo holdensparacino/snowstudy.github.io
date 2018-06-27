@@ -8,19 +8,16 @@
   text-decoration: none;
 }
 
-.project-tagline {
-  max-width: 64rem;
-}
-
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
   color: rgba(255,255,255,0.7);
   border-width: 0px;
   border-radius: 0.0rem;
-}
-.btn:hover {
-  color: #ffffff;
+  
+  &hover {
+    color: #ffffff;
+  }
 }
 
   
