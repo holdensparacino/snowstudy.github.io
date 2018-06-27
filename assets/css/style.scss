@@ -12,6 +12,10 @@
   background-size: cover;
 }
 
+.project-tagline {
+  color: #ffffff;
+}
+
 .hidden-link, .hidden-link:hover {
   color: #ffffff;
   text-decoration: none;
@@ -25,7 +29,8 @@
   border-radius: 0.0rem;
   
   &hover {
-    color: #ffffff;
+    color: rgba(255,255,255,0.0);
+    background-color: rgba(255,255,255,1);
   }
 }
 
