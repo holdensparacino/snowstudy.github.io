@@ -22,13 +22,13 @@ body {
   background-size: cover;
 }
 
-.project-tagline {
+.project-title, .project-tagline {
   opacity: 1.0;
+  color: #ffffff;
 }
 
 .hidden-link, .hidden-link:hover {
-  color: #ffffff;
-  text-decoration: none;
+    text-decoration: none;
 }
 
 .btn {
