@@ -1,6 +1,9 @@
 # Holden Sparacino
+
 ## Personal website
-Includes pages to
+
+Includes pages to:
+
 *work projects
 *blog
 *about page
