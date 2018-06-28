@@ -24,7 +24,7 @@
 
 .btn {
   display: inline-block;
-  max-width: 50%;
+  max-width: 30%;
   margin-bottom: 1rem;
   color: rgba(255,255,255,0.8);
   border-width: 0px;
@@ -37,4 +37,12 @@
  background-color: rgba(0, 77, 57, 1);
  }
 
-  
+ h1, h2, h3, h4, h5, h6, a {
+   color: rgba(255,255,255,1.0);
+}
+
+body {
+  color: #000000;
+  background-color: #ffffff;
+}
+
