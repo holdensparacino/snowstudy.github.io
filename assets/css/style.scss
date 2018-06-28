@@ -3,6 +3,15 @@
 
 @import "{{ site.theme }}";
 
+body {
+  color: #000000;
+  background-color: #ffffff;
+}
+
+ h1, h2, h3, h4, h5, h6, a {
+   color: rgba(0, 77, 57,1.0);
+}
+
 .page-header {
   background-image: url("/assets/20170729_110740_1_.jpg");
   background-color: #ffffff;
@@ -37,13 +46,3 @@
  text-decoration: none;
  background-color: rgba(0, 77, 57, 1);
  }
-
- h1, h2, h3, h4, h5, h6, a {
-   color: rgba(0, 77, 57,1.0);
-}
-
-body {
-  color: #000000;
-  background-color: #ffffff;
-}
-
