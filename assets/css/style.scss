@@ -26,14 +26,16 @@
   display: inline-block;
   margin-bottom: 1rem;
   color: rgba(255,255,255,0.8);
-  border-width: 0px;
+  border-width: 1px;
+  border-color: rgba(0, 77, 57, 1);
+  background-color: rgba(0, 77, 57, 0.5);
   border-radius: 0.0rem;
 }
 .btn:hover {
  color: rgba(255,255,255,1.0);
- text-decoration:none;
- background-color:rgba(255,255,255,0.4);
- border-color:rgba(255,255,255,0.0);
+ text-decoration: none;
+ background-color: rgba(0, 77, 57, 1);
+ border-color: rgba(0, 77, 57, 1);
 }
 
   
