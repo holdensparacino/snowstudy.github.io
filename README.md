@@ -9,5 +9,5 @@ Includes pages to:
 * about page
 * social media
 
-Built using modified 'Cayman' theme
+Built using modified 'Cayman' theme: https://github.com/pages-themes/cayman
 
