@@ -9,53 +9,26 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     
-    <script language="javascript">
-       
-    /* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
-    function topNavMenu() {
-        var x = document.getElementById("myTopnav");
-        var y = document.getElementById("myShade");
-        if (x.className === "topnav") {
-            x.className += " responsive";
-            y.className += " show";
-        } else {
-            x.className = "topnav";
-            y.className = "shade";
-        }
-    }
-
-    </script>
+   
     
   </head>
   
   <body>
    
-    <!-- Top Nav -->
-
-        <ul class="topnav" id="myTopnav">
-          <li class="topnavtitle"><a href="/">H</a></li>
-          <li class="topnavlink"><a href="/work">work</a></li>
-          <li class="topnavlink"><a href="/page/1">blog</a></li>
-          <li class="topnavlink"><a href="/about">about</a></li>
-          <li class="topnavlink"><a href="http://twitter.com/holdensparacino" target="_blank"><img
-    src="https://lh3.googleusercontent.com/CD_FDziucboP2Ey7Xys14uj1mBmWmHmIIIIuEArVH6nyUrFb-9iPF9Jo4ejPGBecNde8qhYgNk3xmA9fw_e1OEitcV_9-MBnXia7MUZ0x-G31QEvR8S2Z2Yi2WowYZsr2JSu0ihPe4zpQ56ltoszx8tFj8EUMRGtNfo0b-N4Oseg0lmfeHTRZqvCL7Kjf-ZuSrVsGufm0uS2PAnUdAzpKqRCHog0tumhKg5zPsKxVtVX0D1BgxYKxCiaZVdQe1cQfCeSZ1zTSolUnb2YGNc351v15q52pHVSjezobwX-4NPONfrwJGnXlUv1aVXg9IpJGCMVc5ePGm28u2afYqer2LtIHiYZfrNw-64yDiRcmL3OLOGMchhR7BALa4cOssIOuzQJnFVC3cMT7Mm5hBtruwQATSJTUIQM73QXhacUeZkjmFQflW8C-OtoR4rppG4CqiyMj1WQgACfDj9WQmHpGsE4mAV-zJLRNx9jC_N57DdEk5mnelokWUnECAXBJBw63LZpD4tVVYSPXplfSwTJ5JOhVWhRogiLAhjhpvK4q9BXAIVt1pWkPkLZ8SQOZOxUI4CPREiTcDa0w8FvpyYfeJYmA2hc4ScOpXwJky5xm76FG_vCFi6f1YFMcD7ZXoVtQax7GyG7lZ1s2K8IFSVc1_Gt3PiKV2cQvpnvA_s6H8E=s100-no" width="24px"></a></li>
-          <li class="topnavlink"><a href="http://instagram.com/holdensparacino" target="_blank"><img 
-    src="https://lh3.googleusercontent.com/gGgJ3Z0uaNIwNME7j3PRiq8W0aOYyHlWdI75Jzd38MKW0C5xpuOpxrfttxGOCaPXdWRYQQARPuQVvnPDwrSf3Rczx8b_12q8QWNXfz4lxDYd0vaY4kLSAzysflYUQuPZ6iFKENxgqc2HOvoX_xr-Q5JlwLHYg4pJvzlnkvalnVaugjmIKj8Z1syQqGkrJ0Tf87lMGuWA5meMhKMBEXstGzw0oYgDfY9qlq9Z8b8OlWbKKelIlm99FBLX9xFxr6PxjmjSJYUB2haFDfeLx9fmyyeszSMWwc9sYwLWGdNGifOsLo2ZXyZC9RbDo2xP4Rp_9dB-OrZeAXgBbjIBkInJRA7zpzmBdxA_I38skb15vjY-KKbuWzDDR3DVPTEPkXy_Ubm6yUR6XCFHBkkax_Mh4DMRej5m5-e877h1VOi-6X49wcEwEbi5C5QSIChyoZ9pFnZ9vGV8m-pjtyWHyZU82NzPt8vEDKwgLk5YagHDXDLoLI5ZS1RGzyk0mmMRP-hF-1IP-nSs13ZCPAyVkV_YEDNeADITA6iC2LVlLHynSvTQnBEgGcky93RB9dcM4qAMjVJ3te1sOYuUZ23hxbZw8ZtGTMwMSX4iDMpbJRnrXkP1A1O-ivIhH-WANSRfyPFcEComZV1tqsx85imh7qvA3Z4getq-L5Lgap-JjnCaGmQ=s100-no" width="24px"></a></li>
-          <li class="icon">
-            <a href="javascript:void(0);" onclick="topNavMenu()">&#8942;</a>
-        </li>
-    </ul>
-    <a href="javascript:void(0);" onclick="topNavMenu()"><div class="shade" id="myShade"></div></a>
-    
     <header class="page-header" role="banner">
           <a href="/" class="hidden-link">
             <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
             <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
           </a>    
       
-          <a href="/work.html" class="btn">work</a>
-          <a href="https://holdensparacino.tumblr.com" class="btn">blog</a>
-          <a href="/about.html" class="btn">about</a>
+			<a href="/work.html" class="btn">work</a>
+			<a href="https://holdensparacino.tumblr.com" class="btn">blog</a>
+			<a href="/about.html" class="btn">about</a>
+			<a href="https://twitter.com/holdensparacino" target="_blank"><img
+    src="https://lh3.googleusercontent.com/CD_FDziucboP2Ey7Xys14uj1mBmWmHmIIIIuEArVH6nyUrFb-9iPF9Jo4ejPGBecNde8qhYgNk3xmA9fw_e1OEitcV_9-MBnXia7MUZ0x-G31QEvR8S2Z2Yi2WowYZsr2JSu0ihPe4zpQ56ltoszx8tFj8EUMRGtNfo0b-N4Oseg0lmfeHTRZqvCL7Kjf-ZuSrVsGufm0uS2PAnUdAzpKqRCHog0tumhKg5zPsKxVtVX0D1BgxYKxCiaZVdQe1cQfCeSZ1zTSolUnb2YGNc351v15q52pHVSjezobwX-4NPONfrwJGnXlUv1aVXg9IpJGCMVc5ePGm28u2afYqer2LtIHiYZfrNw-64yDiRcmL3OLOGMchhR7BALa4cOssIOuzQJnFVC3cMT7Mm5hBtruwQATSJTUIQM73QXhacUeZkjmFQflW8C-OtoR4rppG4CqiyMj1WQgACfDj9WQmHpGsE4mAV-zJLRNx9jC_N57DdEk5mnelokWUnECAXBJBw63LZpD4tVVYSPXplfSwTJ5JOhVWhRogiLAhjhpvK4q9BXAIVt1pWkPkLZ8SQOZOxUI4CPREiTcDa0w8FvpyYfeJYmA2hc4ScOpXwJky5xm76FG_vCFi6f1YFMcD7ZXoVtQax7GyG7lZ1s2K8IFSVc1_Gt3PiKV2cQvpnvA_s6H8E=s100-no" width="24px" class="social-btn">Twitter</a>
+			<a href="https://instagram.com/holdensparacino" target="_blank"><img 
+    src="https://lh3.googleusercontent.com/gGgJ3Z0uaNIwNME7j3PRiq8W0aOYyHlWdI75Jzd38MKW0C5xpuOpxrfttxGOCaPXdWRYQQARPuQVvnPDwrSf3Rczx8b_12q8QWNXfz4lxDYd0vaY4kLSAzysflYUQuPZ6iFKENxgqc2HOvoX_xr-Q5JlwLHYg4pJvzlnkvalnVaugjmIKj8Z1syQqGkrJ0Tf87lMGuWA5meMhKMBEXstGzw0oYgDfY9qlq9Z8b8OlWbKKelIlm99FBLX9xFxr6PxjmjSJYUB2haFDfeLx9fmyyeszSMWwc9sYwLWGdNGifOsLo2ZXyZC9RbDo2xP4Rp_9dB-OrZeAXgBbjIBkInJRA7zpzmBdxA_I38skb15vjY-KKbuWzDDR3DVPTEPkXy_Ubm6yUR6XCFHBkkax_Mh4DMRej5m5-e877h1VOi-6X49wcEwEbi5C5QSIChyoZ9pFnZ9vGV8m-pjtyWHyZU82NzPt8vEDKwgLk5YagHDXDLoLI5ZS1RGzyk0mmMRP-hF-1IP-nSs13ZCPAyVkV_YEDNeADITA6iC2LVlLHynSvTQnBEgGcky93RB9dcM4qAMjVJ3te1sOYuUZ23hxbZw8ZtGTMwMSX4iDMpbJRnrXkP1A1O-ivIhH-WANSRfyPFcEComZV1tqsx85imh7qvA3Z4getq-L5Lgap-JjnCaGmQ=s100-no" width="24px" class="social-btn">Instagram</a>
+			
         
     </header>
 
