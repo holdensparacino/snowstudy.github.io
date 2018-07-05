@@ -47,3 +47,14 @@ body {
  text-decoration: none;
  background-color: rgba(0, 77, 57, 1);
  }
+
+#social {
+  max-width: 10%;
+  color: rgba(255,255,255,.7);
+  background-color: rgba(0, 0, 0, 0, 0);
+}
+
+#social:hover {
+  color: rgba(255,255,255,1);
+  background-color: rgba(0, 0, 0, 0, 0);
+
