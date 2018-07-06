@@ -30,44 +30,39 @@
       {{ content }}
 
       <footer class="site-footer">
-	      <div>
 	      <ul class="footer-list">
 		      <li>
-				      <a href="/work">work</a>
-			      </li>
-			      <li>
-				      <a href="https://holdensparacino.com" target="blank">blog</a>
-			      </li>
-			      <li>
-				      <a href="/about">about</a>
-			      </li>
-		      </ul>
-	      </div>
-	      <div>
-		      <ul class="footer-list">
-			      <li>
-				      <a href="https://twitter.com/holdensparacino" target="blank"><img src="/assets/twitter-icon.png" width="24px"></a>
-			      </li>
-			      <li>
-				      <a href="https://instagram.com/holdensparacino" target="blank"><img src="/assets/instagram-icon.png" width="24px"></a>
-			      </li>
-		      </ul>
-	      </div>
-	     <div>
-		     <ul class="footer-list">
-		     <li>
-		      © <script language="JavaScript" type="text/javascript">
-			 			     
-        now = new Date
-        theYear=now.getYear()
-        if (theYear < 1900)
-            theYear=theYear+1900
-        document.write(theYear)
-    </script> Holden Sparacino
-			     </li>
-			     </ul>
-	      </div>
-      </footer>
+			      <a href="/work">work</a>
+		      </li>
+		      <li>
+			      <a href="https://holdensparacino.com" target="blank">blog</a>
+		      </li>
+		      <li>
+			      <a href="/about">about</a>
+		      </li>
+	      </ul>
+	      <ul class="footer-list">
+		      <li>
+			      <a href="https://twitter.com/holdensparacino" target="blank"><img src="/assets/twitter-icon.png" width="24px"></a>
+		      </li>
+		      <li>
+			      <a href="https://instagram.com/holdensparacino" target="blank"><img src="/assets/instagram-icon.png" width="24px"></a>
+		      </li>
+	      </ul>
+	      <ul class="footer-list">
+		      <li>
+			      <p>
+				      © <script language="JavaScript" type="text/javascript">
+				      now = new Date
+				      theYear=now.getYear()
+				      if (theYear < 1900)
+					      theYear=theYear+1900
+				      document.write(theYear)
+				      </script> Holden Sparacino
+			      </p>
+		      </li>
+	      </ul>
+	    </footer>
     </main>
 
     {% if site.google_analytics %}
