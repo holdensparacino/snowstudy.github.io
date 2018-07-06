@@ -59,15 +59,12 @@ ul.footer-list {
 ul.footer-list li {
   float: left;
   color: #819198;
-}
-
-ul.footer-list li a, ul.footer-list li p {
   display: block;
   padding: 8px;
   text-align: center;
-  color: #819198;
   transition: 0.2s;
 }
+
 
 ul.footer-list li a:hover {
   color: rgba(0, 77, 57, 1);
