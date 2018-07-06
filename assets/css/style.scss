@@ -64,7 +64,7 @@ ul.footer-list li a {
   display: block;
   padding: 8px;
   text-align: center;
-  color: #819198;
+  color: rgba(0, 0, 0, 0.4);
   transition: 0.2s;
 }
 
@@ -75,12 +75,12 @@ ul.footer-list li p {
   padding-right:8px;
   padding-bottom:8px;
   text-align: center;
-  color: #819198;
+  color: rgba(0, 0, 0, 0.4);
   transition: 0.2s;
 }
 
 ul.footer-list li a:hover {
-  color: rgba(0, 77, 57, 1);
+  color: rgba(0, 0, 0, 1);
   transition: 0.2s;
   text-decoration: none;
 }
