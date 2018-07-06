@@ -71,7 +71,7 @@ ul.footer-list li a {
 
 ul.footer-list li p {
   display: block;
-  text-size: 20px
+  text-size: 20px;
   padding-top: 0px;
   padding-left:12px;
   padding-right:12px;
@@ -88,14 +88,11 @@ ul.footer-list li a:hover {
 }
   
 ul.footer-list li a img {
-  opacity:0.4;
+  opacity: 0.4;
   transition: 0.2s;
  }
 
 ul.footer-list li a:hover img {
-  opacity:1.0;
+  opacity: 1.0;
   transition: 0.2s;
 }
-  
-  
-
