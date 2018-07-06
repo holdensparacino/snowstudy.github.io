@@ -55,18 +55,18 @@ ul.footer-list {
   padding: 0;
 }
 
-li.footer-list-item {
+ul.footer-list li {
   float: left;
 }
 
-a.footer-list-link {
+ul.footer-list li a {
   display: block;
   padding: 8px;
   text-align: center;
   color: #819198;
 }
 
-a.footer-list-link:hover {
+ul.footer-list li a:hover {
   color: rgba(0, 77, 57, 1);
 }
   
