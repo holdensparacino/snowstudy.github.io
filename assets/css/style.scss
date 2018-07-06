@@ -59,14 +59,14 @@ li.footer-list {
   float: left;
 }
 
-ul.footer-list.li.a {
+a.footer-list {
   display: block;
   padding: 8px;
   text-align: center;
   color: #819198;
 }
 
-ul.footer-list.li.a:hover {
+a.footer-list:hover {
   color: rgba(0, 77, 57, 1);
 }
   
