@@ -2,6 +2,8 @@
 layout: default
 ---
 
-## About
+## about me
 
-This is an about page
+(/assets/profile.png)
+
+I am a graduate research student at the University of Vermont, working to understand how private contractors 
