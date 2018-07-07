@@ -50,9 +50,16 @@ body {
  }
 
 #profile {
+  display: block;
   max-width: 75%;
   height: auto;
+  margin: auto;
+}
+
+#contact-form {
   display: block;
+  max-width: 100%;
+  height: auto;
   margin: auto;
 }
 
