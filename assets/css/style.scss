@@ -79,7 +79,6 @@ ul.footer-list li p, #site-description {
   display: inline-block;
   text-size: 20px;
   padding-top: 2px;
-  padding-left:12px;
   padding-right:0px;
   padding-bottom:12px;
   text-align: center;
@@ -87,7 +86,7 @@ ul.footer-list li p, #site-description {
   transition: 0.2s;
 } 
 
-ul.footer-list li a:hover {
+ul.footer-list li a:hover, #site-description:hover {
   color: rgba(0, 0, 0, 1);
   transition: 0.2s;
   text-decoration: none;
