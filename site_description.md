@@ -10,7 +10,7 @@ If you would like to use this content in other ways, or have questions about thi
 
 ### Site tools
 
-The site uses [GitHub Pages](https://pages.github.com) to host and organize files. 
+This site uses [GitHub Pages](https://pages.github.com) to host and organize files. 
 
 The design is a modified [Cayman](https://pages-themes.github.io/cayman/) theme.
 
