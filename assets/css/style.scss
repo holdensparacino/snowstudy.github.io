@@ -75,12 +75,12 @@ ul.footer-list li a {
   transition: 0.2s;
 }
 
-ul.footer-list li p {
-  display: block;
+ul.footer-list li p, #site-description {
+  display: inline-block;
   text-size: 20px;
   padding-top: 2px;
   padding-left:12px;
-  padding-right:12px;
+  padding-right:0px;
   padding-bottom:12px;
   text-align: center;
   color: rgba(0, 0, 0, 0.4);
