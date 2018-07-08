@@ -43,7 +43,7 @@ body {
   border-radius: 0.0rem;
 }
 
-.btn:hover {
+.btn:hover, .btn:active {
  color: rgba(255,255,255,1.0);
  text-decoration: none;
  background-color: rgba(0, 77, 57, 1);
