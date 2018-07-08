@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-
-<body id="about-page">
-  
+ 
 ## About
 
 <img src="/assets/profile.png" id="profile">
@@ -15,5 +13,3 @@ My thesis work aims to understand the practices that winter maintenance and snow
 Outside of my research, I am passionate about getting people on bikes, getting myself outside and traveling, and the occasional DIY project. Here you'll find a mixture of my work projects and personal pursuits. Enjoy!
 
 <iframe id="contact-form" src="https://docs.google.com/forms/d/e/1FAIpQLSdF2-jt4IzQfpnvxtYXM8EoDYN46iPiZ6D-wnoplDk7bBUtjg/viewform?embedded=true" width="500" height="670" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
-</body>
