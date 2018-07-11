@@ -2,7 +2,7 @@
 portfolio
 
 
-<div class="card">
+<div class="card" style="cursor: pointer;" onclick="window.location='https://google.com';">
   <img src="/assets/20170729_110740_1_.jpg" alt="lake" style="width:100%">
   <div class="card-container">
     <h2>Work project 1</h2>
