@@ -53,7 +53,8 @@ body {
 }
 
 div.card {
-  width: 90%;
+  width: 350px;
+  min-width: 90%;
   background-color: #ffffff;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin: auto;
@@ -64,7 +65,7 @@ div.card {
   height: 400px;
       }
 
-@media screen and (min-width:650px) {
+@media screen and (min-width:655px) {
   div.card {
     display:inline-block;
     width: 43%;
