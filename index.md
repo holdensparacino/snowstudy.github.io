@@ -6,17 +6,15 @@ I research human impacts on water quality, and work to connect communities to de
     <p>Work project description</p>
   </div>
 </div>
-<div class="card">
-  <img class="card-image" src="/assets/20170729_110740_1_.jpg" alt="lake">
-  <div class="card-container">
-    <h2>Work project 1</h2>
+<div class="card" id="card-2">
+    <div class="card-container">
+    <h2>Work project 2</h2>
     <p>Work project description</p>
   </div>
 </div>
-<div class="card">
-  <img class="card-image" src="/assets/20170729_110740_1_.jpg" alt="lake">
-  <div class="card-container">
-    <h2>Work project 1</h2>
+<div class="card" id="card-3">
+    <div class="card-container">
+    <h2>Work project 3</h2>
     <p>Work project description</p>
   </div>
 </div>
