@@ -1,6 +1,4 @@
-## I research human impacts on water quality, and work to connect communities to decisions about their water resources.
-
-My professional interests include community-based science, surface water quality, social science, and changing environmental behaviors.
+I research human impacts on water quality, and work to connect communities to decisions about their water resources. My professional interests include community-based science, surface water quality, social science, and changing environmental behaviors.
 
 Outside of work, I love to bike, hike, and am always trying my hand at some new DIY project.
 
@@ -25,10 +23,10 @@ Outside of work, I love to bike, hike, and am always trying my hand at some new 
     <p>Work project description</p>
   </div>
 </div>
-<div class="card" style="cursor: pointer" onclick="window.open('hhttps://medium.com/@holdensparacino/latest', '_blank')">
+<div class="card" style="cursor: pointer" onclick="window.open('https://medium.com/@holdensparacino/latest', '_blank')">
   <img src="/assets/lake-champlain.jpg" alt="blog" style="width:100%" >
   <div class="card-container">
-    <h2>Latest Post</h2>
-    <p>I blog about my research, travels, and ideas.</p>
+    <h2>Latest Blog Post</h2>
+    <p>I blog about my research and travels</p>
   </div>
 </div>
