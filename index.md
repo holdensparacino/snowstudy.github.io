@@ -1,4 +1,4 @@
-I research human impacts on water quality, and work to connect communities to decisions about their water resources.
+<h3 class="page-intro">I research human impacts on water quality, and work to connect communities to decisions about their water resources.</h3>
 
 <div class="card" id="card-1" style="cursor: pointer;" onclick="window.open('https://google.com', '_blank')">
     <div class="card-container">
