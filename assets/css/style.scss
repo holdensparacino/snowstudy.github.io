@@ -64,10 +64,13 @@ div.card {
     margin: 3%;
     height: 350px;
     position: relative;
+    vertical-align: top;
   }
   .card-image {
     height: 100%;
-    width: auto;
+    background-position: center;
+    background-size: cover;
+    background-color: #ffffff;
   }
 }
 
