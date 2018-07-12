@@ -56,17 +56,15 @@ div.card {
   margin-bottom: 10%;
   background-position: center;
   background-size: cover;
-  
+  position: relative;
       }
 
 @media screen and (min-width:650px) {
   div.card {
     display:inline-block;
-    max-width: 43%;
+    width: 43%;
     margin: 3%;
     height: 350px;
-    position: relative;
-    vertical-align: top;
   }
 }
 
