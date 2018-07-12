@@ -58,17 +58,24 @@ div.card {
     }
 
 @media screen and (min-width:650px) {
-div.card {
-  display:inline-block;
-  max-width: 43%;
-  margin: 3%;
-  height: 350px;
+  div.card {
+    display:inline-block;
+    max-width: 43%;
+    margin: 3%;
+    height: 350px;
+    position: relative;
+  }
+  .card-image {
+    height: 100%
   }
 }
 
 div.card-container {
   text-align: center;
   padding: 10px 20px;
+  position:absolute;
+  background-color: #ffffff;
+  bottom: 0;
 }
 
 #profile {
