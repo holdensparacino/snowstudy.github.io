@@ -1,5 +1,6 @@
-<h3 class="page-intro">I research human impacts on water quality and work to promote community access and input to decisions and research on water resources.</h3>
-
+<div class="page-intro">
+    <h3 class="page-intro">I research human impacts on water quality and work to promote community access and input to decisions and research on water resources.</h3>
+    </div>
 <div class="card" id="card-1" style="cursor: pointer;" onclick="window.open('https://google.com', '_blank')">
     <div class="card-container">
     <h2>Work project 1</h2>
