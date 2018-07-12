@@ -55,13 +55,14 @@ div.card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin: auto;
   margin-bottom: 10%;
-  }
+    }
 
-@media screen and (min-width:500px) {
+@media screen and (min-width:650px) {
 div.card {
-  display:inline-table;
+  display:inline-block;
   max-width: 43%;
   margin: 3%;
+  height: 350px;
   }
 }
 
