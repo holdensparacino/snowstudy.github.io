@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
- 
-<h3 class="page-intro">About me</h3>
+<div class="page-intro"> 
+## About me
+</div>
 
 <img src="/assets/profile.png" id="profile">
 
