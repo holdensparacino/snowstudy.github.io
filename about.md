@@ -1,9 +1,9 @@
 ---
 layout: default
+title: About
 ---
-<div class="page-intro"> 
-## About me
-</div>
+<h2 class="page-intro">About Me
+</h2>
 
 <img src="/assets/profile.png" id="profile">
 
