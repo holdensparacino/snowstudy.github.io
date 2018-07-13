@@ -52,6 +52,7 @@ body {
   text-align: center;
   padding: 30px;
   max-width: 750px;
+  margin: auto;
 }
 
 div.card {
@@ -65,8 +66,7 @@ div.card {
   background-size: cover;
   position: relative;
   height: 400px;
-  curser: pointer;
-      }
+        }
 
 @media screen and (min-width:655px) {
   div.card {
