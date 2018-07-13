@@ -48,12 +48,25 @@ body {
   background-color: rgba(0, 77, 57, 1);
 }
 
+.main-content p {
+  line-height: 1.75em;
+}
+
 .page-intro {
   text-align: center;
   padding: 30px;
   max-width: 750px;
   margin: auto;
 }
+
+@media screen and (min-width:655px) {
+  div.content-block {
+    display:inline-block;
+    width: 50%;
+    margin: auto;
+    vertical-align: center;
+  }
+}  
 
 div.card {
   width: 350px;
