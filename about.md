@@ -2,9 +2,13 @@
 layout: default
 title: About
 ---
-<h1 class="page-intro">About Me
-</h1>
-<img src="/assets/profile.png" id="profile">
+<div class="content-block">
+  <h1 class="page-intro">About Me
+  </h1>
+  </div>
+<div class="content-block">
+  <img src="/assets/profile.png" id="profile">
+  </div>
 
 I am a graduate research student at the University of Vermont, interested in connecting communities to decisions about their water resources. Raised in California, I left for the East Coast a decade ago and have been trying to adjust to the winters ever since.
 
