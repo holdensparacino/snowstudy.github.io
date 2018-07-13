@@ -65,6 +65,7 @@ div.card {
   background-size: cover;
   position: relative;
   height: 400px;
+  curser: pointer;
       }
 
 @media screen and (min-width:655px) {
@@ -106,6 +107,7 @@ div.card-container {
   max-width: 75%;
   height: auto;
   margin: auto;
+  padding: 20px;
 }
 
 #contact-form {
