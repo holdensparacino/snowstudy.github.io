@@ -3,18 +3,27 @@
 
 @import "{{ site.theme }}";
 
+:root {
+  --primary-theme-color: rgba(0, 77, 57, 1);
+  --primary-theme-color-fade: rgba(0, 77, 57, 0.5)
+  --secondary-theme-color: rgba(0, 153, 112, 1);
+  --background-color: (255, 255, 255, 1.0);
+  --text-color: (0, 0, 0, 1.0);
+  
+}
 body {
-  color: #000000;
-  background-color: #ffffff;
+  color: var(--text-color);
+  background-color: var(--background-color);
 }
 
  h1, h2, h3, h4, h5, h6, a, .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
-   color: rgba(0, 153, 112, 1);
+   color: var(--secondary-theme-color);
+   
 }
 
 .page-header {
   background-image: url("/assets/20170729_110740_1_.jpg");
-  background-color: #ffffff;
+  background-color: var(--background-color);
   width: 100%;
   /* Center and scale the image nicely */
   background-position: center;
@@ -22,8 +31,7 @@ body {
 }
 
 .project-name, .project-tagline {
-  opacity: 1.0;
-  color: #ffffff;
+  color: var(--background-color);
 }
 
 .hidden-link, .hidden-link:hover {
