@@ -45,7 +45,7 @@ title: Work
 
 # Publications
 
-- Sparacino, H. (2017). [Launching a Regional Water Quality Database with CitSci.org]. *Citsci.org*.
+- Sparacino, H. (2017). [Launching a Regional Water Quality Database with CitSci.org](http://citsci.org/CitSCiBlog/797/Launching%20a%20Regional%20Water%20Quality%20Database%20with%20CitSci.org). *Citsci.org*.
 - Sparacino, H., Wylie, S. (2014). [Estimating the Volume and Weight of Waste Piles](https://i.publiclab.org/system/images/photos/000/006/719/original/GM_Forum_20140909_Estimating_Trash_Piles.pdf). *Public Lab Journal of Environmental Research: The Grassroots Mapping Forum*.
 
 # Presentations
@@ -57,6 +57,3 @@ title: Work
 - Sparacino, H. (2016). [Creating an Effective Volunteer Monitoring Database - Data Management Techniques and Lessons Learned](https://drive.google.com/file/d/0BxXFDCUd9xxTNGlKek1KbWlWOWM/view?usp=sharing). *National Water Quality Monitoring Conference*.
 - Monismith, J., **Sparacino, H.** (2016). [Shale Gas Monitoring Workshop](https://vcwq.files.wordpress.com/2015/08/holden-sparacino-allarm-shale-gas-presentation.pdf). *Mid-Atlantic Volunteer Monitoring Conference*.
 - Sparacino, H. (2015). Volunteer Monitoring for Shale Gas Impacts. *Westminster College*.
-
-
-[Launching a Regional Water Quality Database with CitSci.org]: http://citsci.org/CitSCiBlog/797/Launching%20a%20Regional%20Water%20Quality%20Database%20with%20CitSci.org
