@@ -4,6 +4,7 @@
 @import "{{ site.theme }}";
 
 /* Theme colors and spacing variables */
+
 :root {
   --primary-theme-color: rgba(0, 77, 57, 1);
   --primary-theme-color-fade: rgba(0, 77, 57, 0.5);
@@ -14,8 +15,24 @@
   --p-line-height: 1.75em;
   --content-spacing: 0.75rem;
   --default-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  
+  }
+
+/* Card images for index and portfolio */
+
+#card-deicing-conference {
+  background-image: url("/assets/deicing-conference.png");
 }
+#card-volmon {
+  background-image: url("/assets/volmon.png");
+}
+#card-allarmwater {
+  background-image: url("/assets/allarmwater.png");
+}
+#card-blog {
+  background-image: url("/assets/lake-champlain.jpg");
+}
+
+/* General styling */
 
 body {
   color: var(--text-color);
@@ -32,7 +49,6 @@ body {
   background-image: url("/assets/20170729_110740_1_.jpg");
   background-color: var(--background-color);
   width: 100%;
-  /* Center and scale the image nicely */
   background-position: center;
   background-size: cover;
 }
@@ -81,6 +97,24 @@ body {
   margin-bottom: 0;
 }
 
+#profile {
+  display: block;
+  max-width: 75%;
+  height: auto;
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 20px;
+ }
+
+#contact-form {
+  display: block;
+  max-width: 100%;
+  max-height: 100%;
+  margin: auto;
+}
+
+/*Responsive card layout */
+
 @media screen and (min-width:655px) {
   div.content-block {
     display:inline-block;
@@ -121,37 +155,7 @@ div.card-container {
   width: 100%;
 }
 
-#card-1 {
-  background-image: url("/assets/20170729_110740_1_.jpg");
-}
-
-#card-2 {
-  background-image: url("/assets/20170729_110740_1_.jpg");
-}
-
-#card-3 {
-  background-image: url("/assets/20170729_110740_1_.jpg");
-}
-
-#card-blog {
-  background-image: url("/assets/lake-champlain.jpg");
-}
-
-#profile {
-  display: block;
-  max-width: 75%;
-  height: auto;
-  margin: auto;
-  padding-top: 10px;
-  padding-bottom: 20px;
- }
-
-#contact-form {
-  display: block;
-  max-width: 100%;
-  max-height: 100%;
-  margin: auto;
-}
+/* Footer styling */
 
 ul.footer-list {
   list-style-type: none;
