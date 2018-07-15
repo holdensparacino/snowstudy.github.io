@@ -31,11 +31,12 @@ body {
 
 .project-name, .project-tagline {
   color: var(--background-color);
+  opacity: 1;
 }
 
 .hidden-link, .hidden-link:hover {
   text-decoration: none;
-  color: #ffffff;
+  color: var(--background-color);
 }
 
 .btn {
@@ -43,16 +44,16 @@ body {
   max-width: 50%;
   margin-bottom: 1rem;
   font-size: 20px;
-  color: rgba(255,255,255,1);
+  color: var(--background-color);
   border-width: 0px;
-  background-color: rgba(0, 77, 57, 0.5);
+  background-color: var(--primary-theme-color-fade);
   border-radius: 0.0rem;
 }
 
 .btn:hover, body#about-page .btn, body#work-page .btn {
-  color: rgba(255,255,255,1.0);
+  color: var(--background-color);
   text-decoration: none;
-  background-color: rgba(0, 77, 57, 1);
+  background-color: var(--primary-theme-color);
 }
 
 .main-content p {
