@@ -10,10 +10,12 @@ If you would like to use this content in other ways, or have questions about thi
 
 ### Site tools
 
-This site uses [GitHub Pages](https://pages.github.com) to host and organize files. 
+This site uses [GitHub Pages](https://pages.github.com){:target="_blank"} to host and organize files. 
 
-The design is a modified [Cayman](https://pages-themes.github.io/cayman/) theme.
+The design is a modified [Cayman](https://pages-themes.github.io/cayman/){:target="_blank"} theme.
 
-You can see the source files [here](https://github.com/holdensparacino/holdensparacino.github.io).
+You can see the source files [here](https://github.com/holdensparacino/holdensparacino.github.io){:target="_blank"}.
+
+Shout out to [W3Schools](http://w3schools.com/){:target="_blank"} and [stack overflow](https://stackoverflow.com/){:target="_blank"} for helping this novice coder out.
 
 <iframe id="contact-form" src="https://docs.google.com/forms/d/e/1FAIpQLSdF2-jt4IzQfpnvxtYXM8EoDYN46iPiZ6D-wnoplDk7bBUtjg/viewform?embedded=true" width="500" height="670" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
