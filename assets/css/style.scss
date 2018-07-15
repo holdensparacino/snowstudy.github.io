@@ -42,7 +42,7 @@ body {
   background-color: var(--background-color);
 }
 
- h1, h2, h3, h4, h5, h6, a, .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+ h1, h2, h3, h4, h5, h6, .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
    color: var(--secondary-theme-color);
    padding-left: var(--content-spacing);
    padding-right: var(--content-spacing);
@@ -87,6 +87,14 @@ body {
   line-height: var(--p-line-height);
   padding-left: var(--content-spacing);
   padding-right: var(--content-spacing);
+}
+
+a {
+  color: var(--secondary-theme-color);
+}
+
+li {
+  padding-bottom: var(--content-spacing);
 }
 
 .page-intro {
