@@ -9,15 +9,13 @@ title: Work
     <div class="card-container">
     <h2>Deicing Conference</h2>
     <p>Summit for snow removal professionals on best practices</p>
-    <p>Coordinator</p>
-  </div>
+      </div>
 </div>
 <div class="card" id="card-netherlands" style="cursor: pointer;" onclick="window.open('http://blog.uvm.edu/netherlands/', '_blank')">
     <div class="card-container">
     <h2>NL Travel Course</h2>
     <p>Water management class in the Netherlands</p>
-    <p>Teaching Assistant</p>
-  </div>
+      </div>
 </div>
 <h3 class="page-intro">As a research student, I investigate the practices of private snow removal companies throughout the Lake Champlain basin</h3>
 - Research winter maintenance practices used by private contractors throughout the Lake Champlain region, using quantitative and qualitative data collection.
@@ -33,15 +31,13 @@ title: Work
     <div class="card-container">
     <h2>VolMon Network</h2>
     <p>Resource repository for water quality monitoring groups</p>
-    <p>Contributor</p>
-  </div>
+      </div>
 </div>
 <div class="card" id="card-allarmwater" style="cursor: pointer;" onclick="window.open('https://www.citsci.org/CWIS438/Websites/CitSci/BlogPost.php?ID=797', '_blank')">
     <div class="card-container">
     <h2>Shale Gas Database</h2>
     <p>Online open-access database created for volunteer monitors</p>
-    <p>Project lead</p>
-  </div>
+     </div>
 </div>
 <h3 class="page-intro">I contribute to outreach by the USA Volunteer Monitoring Network, and have worked with volunteer groups in New York and Pennsylvania to monitor their local streams for shale gase development impacts</h3>
 - Managed ALLARM's regional shale gas monitoring program across Pennsylvania, including training new volunteers on ALLARM's shale gas monitoring protocol, supporting current volunteers through community meetings and resources, and organizing volunteer data to increase usability and visibility.
