@@ -3,18 +3,18 @@
    <div class="card" id="card-deicing-conference" style="curser: pointer;" onclick="window.open('https://lcwroadsalt.wixsite.com/conference', '_blank')">
     <div class="card-container">
     <h2>Deicing Conference</h2>
-    <p>Summit for snow removal professionals on environmental impacts and best practices</p>
+    <p>Summit for snow removal professionals on best practices</p>
   </div>
 </div>
 <div class="card" id="card-volmon" style="curser: pointer;" onclick="window.open('http://www.volunteermonitoring.org/', '_blank')">
     <div class="card-container">
     <h2>Volunteer Monitoring Network</h2>
-    <p>Resources for volunteer water quality monitoring groups and individuals</p>
+    <p>Resource repository for water quality monitoring groups</p>
   </div>
 </div>
 <div class="card" id="card-allarmwater">
     <div class="card-container">
-    <h2>ALLARM Shale Gas Database</h2>
+    <h2>Shale Gas Database</h2>
     <p>Online open-access database created for volunteer monitors</p>
   </div>
 </div>
