@@ -3,10 +3,10 @@ layout: default
 title: Work
 ---
 
-<h3 class="page-intro">I am a research student at the University of Vermont, investigating the practices of private snow removal companies throughout the Lake Champlain basin</h3>
-
 ### University of Vermont
 
+
+<h3 class="page-intro">As a research student, I investigate the practices of private snow removal companies throughout the Lake Champlain basin</h3>
    <div class="card" id="card-deicing-conference" style="cursor: pointer;" onclick="window.open('https://lcwroadsalt.wixsite.com/conference', '_blank')">
     <div class="card-container">
     <h2>Deicing Conference</h2>
@@ -29,6 +29,7 @@ title: Work
 
 ### Notable Projects
 
+<h3 class="page-intro">I contribute to outreach by the USA Volunteer Monitoring Network, and have worked with volunteer groups in New York and Pennsylvania to monitor their local streams for shale gase development impacts</h3>
 <div class="card" id="card-volmon" style="cursor: pointer;" onclick="window.open('http://www.volunteermonitoring.org/', '_blank')">
     <div class="card-container">
     <h2>VolMon Network</h2>
