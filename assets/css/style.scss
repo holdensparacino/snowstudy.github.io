@@ -3,14 +3,20 @@
 
 @import "{{ site.theme }}";
 
+/* Theme colors and spacing variables */
 :root {
   --primary-theme-color: rgba(0, 77, 57, 1);
   --primary-theme-color-fade: rgba(0, 77, 57, 0.5);
   --secondary-theme-color: rgba(0, 153, 112, 1);
-  --background-color: (255, 255, 255, 1.0);
-  --text-color: (0, 0, 0, 1.0);
+  --background-color: rgba(255, 255, 255, 1.0);
+  --text-color: rgba(0, 0, 0, 1.0);
+  --text-color-fade: rgba(0, 0, 0, 0.4);
+  --p-line-height: 1.75em;
+  --content-spacing: 0.75rem;
+  --default-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   
 }
+
 body {
   color: var(--text-color);
   background-color: var(--background-color);
@@ -18,6 +24,8 @@ body {
 
  h1, h2, h3, h4, h5, h6, a, .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
    color: var(--secondary-theme-color);
+   padding-left: var(--content-spacing);
+   padding-right: var(--content-spacing);
    }
 
 .page-header {
@@ -57,9 +65,9 @@ body {
 }
 
 .main-content p {
-  line-height: 1.75em;
-  padding-left: 0.75rem;
-  padding-right: 0.75rem;
+  line-height: var(--p-line-height);
+  padding-left: var(--content-spacing);
+  padding-right: var(--content-spacing);
 }
 
 .page-intro {
@@ -85,8 +93,8 @@ body {
 div.card {
   width: 350px;
   max-width: 90%;
-  background-color: #ffffff;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: var(--background-color);
+  box-shadow: var(--default-box-shadow);
   margin: auto;
   margin-bottom: 10%;
   background-position: center;
@@ -108,7 +116,7 @@ div.card-container {
   text-align: center;
   padding: 10px 20px;
   position:absolute;
-  background-color: #ffffff;
+  background-color: var(--background-color);
   bottom: 0;
   width: 100%;
 }
@@ -160,7 +168,7 @@ ul.footer-list li a {
   display: block;
   padding: 12px;
   text-align: center;
-  color: rgba(0, 0, 0, 0.4);
+  color: var(--text-color-fade);
   transition: 0.2s;
 }
 
@@ -171,12 +179,12 @@ ul.footer-list li p, #site-description {
   padding-bottom:12px;
   padding-left:6px;
   text-align: center;
-  color: rgba(0, 0, 0, 0.4);
+  color: var(--text-color-fade);
   transition: 0.2s;
 } 
 
 ul.footer-list li a:hover, #site-description:hover {
-  color: rgba(0, 0, 0, 1);
+  color: var(--text-color);
   transition: 0.2s;
   text-decoration: none;
 }
