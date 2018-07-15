@@ -2,7 +2,7 @@
 layout: default
 title: Work
 ---
-
+<h1 class="page-intro">Notable Projects, Publications, and Presentations</h1>
 ## University of Vermont
 
 <div class="card" id="card-deicing-conference" style="cursor: pointer;" onclick="window.open('https://lcwroadsalt.wixsite.com/conference', '_blank')">
@@ -36,7 +36,7 @@ title: Work
     <p>Contributor</p>
   </div>
 </div>
-<div class="card" id="card-allarmwater" style="cursor: pointer;" onclick="window.open('https://www.citsci.org/CitSciBlog/797/Launching%20a%20Regional%20Water%20Quality%20Database%20with%20CitSci.org', '_blank')">
+<div class="card" id="card-allarmwater" style="cursor: pointer;" onclick="window.open('https://www.citsci.org/CWIS438/Websites/CitSci/BlogPost.php?ID=797', '_blank')">
     <div class="card-container">
     <h2>Shale Gas Database</h2>
     <p>Online open-access database created for volunteer monitors</p>
@@ -49,26 +49,25 @@ title: Work
 
 ## Publications
 
-- Sparacino, H. (2017). [Launching a Regional Water Quality Database with CitSci.org](http://citsci.org/CitSCiBlog/797/Launching%20a%20Regional%20Water%20Quality%20Database%20with%20CitSci.org){:target="_blank"}. *Citsci.org*.
-- Sparacino, H., Wylie, S. (2014). [Estimating the Volume and Weight of Waste Piles](https://i.publiclab.org/system/images/photos/000/006/719/original/GM_Forum_20140909_Estimating_Trash_Piles.pdf). *Public Lab Journal of Environmental Research: The Grassroots Mapping Forum*.
+- Sparacino, H. (2017). [Launching a Regional Water Quality Database with CitSci.org](https://www.citsci.org/CWIS438/Websites/CitSci/BlogPost.php?ID=797){:target="_blank"}. *Citsci.org*.
+- Sparacino, H., Wylie, S. (2014). [Estimating the Volume and Weight of Waste Piles](https://i.publiclab.org/system/images/photos/000/006/719/original/GM_Forum_20140909_Estimating_Trash_Piles.pdf){:target="_blank"}. *Public Lab Journal of Environmental Research: The Grassroots Mapping Forum*.
 
 ## Presentations
 
-- lake champlain conference
-- graduate student conference
--grad symposium
-- Sparacino, H. (2017). [Design to Implementation: Creating an Effective Volunteer Monitor Database](https://osf.io/hj7rp/). *Citizen Science Association Conference*.
-- Sparacino, H. (2017). [Effectively Communicating Ecological Economics](http://www.uvm.edu/~jdericks/Conference-EE_Frontiers-3May17.pdf). *Frontiers in Ecological Economics: University of Vermont*.
-- Sparacino, H. (2017). [Water, Fracking, and Community](https://drive.google.com/file/d/0BxXFDCUd9xxTc0VYX1cxYUpyeE0/view?usp=sharing). *Water as a Natural Resource: University of Vermont*.
-- Sparacino, H. (2016). [Building and Supporting a Regional Monitoring Effort](https://drive.google.com/file/d/0BxXFDCUd9xxTWmVWZXRidElNa0E/view?usp=sharing). *National Water Quality Monitoring Conference*.
-- Sparacino, H. (2016). [Creating an Effective Volunteer Monitoring Database - Data Management Techniques and Lessons Learned](https://drive.google.com/file/d/0BxXFDCUd9xxTNGlKek1KbWlWOWM/view?usp=sharing). *National Water Quality Monitoring Conference*.
-- Monismith, J., **Sparacino, H.** (2016). [Shale Gas Monitoring Workshop](https://vcwq.files.wordpress.com/2015/08/holden-sparacino-allarm-shale-gas-presentation.pdf). *Mid-Atlantic Volunteer Monitoring Conference*.
+- **Sparacino, H.**, Stepenuck, K. (2018). [Winter Maintenance Best Practices: Identifying and Lowering Private Contractors' Barriers to Adoption](https://www.uvm.edu/sites/default/files/media/Final_2018_Program.pdf#page=6){:target="_blank"}. *University of Vermont Student Research Conference*.
+- **Sparacino, H.**, Stepenuck, K. (2018). [Winter Maintenance Best Practices: Identifying and Lowering Private Contractors' Barriers to Adoption](http://www.lcbp.org/water-environment/data-monitoring/lake-champlain-research-conference/){:target="_blank"}. *Lake Champlain Research Conference*.
+- **Sparacino, H.**, Stepenuck, K. (2017). [Winter Maintenance Best Practices: Identifying and Lowering Private Contractors' Barriers to Adoption](https://www.youtube.com/watch?v=F_WgywbjZYY){:target="_blank"}. *University of Vermont Graduate Research Symposium*.
+- Sparacino, H. (2017). [Design to Implementation: Creating an Effective Volunteer Monitor Database](https://osf.io/hj7rp/){:target="_blank"}. *Citizen Science Association Conference*.
+- Sparacino, H. (2017). [Effectively Communicating Ecological Economics](http://www.uvm.edu/~jdericks/Conference-EE_Frontiers-3May17.pdf){:target="_blank"}. *Frontiers in Ecological Economics: University of Vermont*.
+- Sparacino, H. (2017). [Water, Fracking, and Community](https://drive.google.com/file/d/0BxXFDCUd9xxTc0VYX1cxYUpyeE0/view?usp=sharing){:target="_blank"}. *Water as a Natural Resource: University of Vermont*.
+- Sparacino, H. (2016). [Building and Supporting a Regional Monitoring Effort](https://drive.google.com/file/d/0BxXFDCUd9xxTWmVWZXRidElNa0E/view?usp=sharing){:target="_blank"}. *National Water Quality Monitoring Conference*.
+- Sparacino, H. (2016). [Creating an Effective Volunteer Monitoring Database - Data Management Techniques and Lessons Learned](https://drive.google.com/file/d/0BxXFDCUd9xxTNGlKek1KbWlWOWM/view?usp=sharing){:target="_blank"}. *National Water Quality Monitoring Conference*.
+- Monismith, J., **Sparacino, H.** (2016). [Shale Gas Monitoring Workshop](https://vcwq.files.wordpress.com/2015/08/holden-sparacino-allarm-shale-gas-presentation.pdf){:target="_blank"}. *Mid-Atlantic Volunteer Monitoring Conference*.
 - Sparacino, H. (2015). Volunteer Monitoring for Shale Gas Impacts. *Westminster College*.
 
 ## Design
 
-- [Travel Study Class Website: University of Vermont](http://blog.uvm.edu/netherlands/). (2018). Lead editor.
-- [Stream of Consciousness: ALLARM](https://scholar.dickinson.edu/cgi/viewcontent.cgi?article=1048&context=stream_of_consciousness). (2017). Lead editor.
-- [Outreach Brochure: ALLARM](https://indd.adobe.com/view/9d0449b4-4428-4204-aaf4-e6faabf037d3" target="_blank">Outreach Brochure: ALLARM</a>. (2016). Lead editor.</li>
-<li><a href="http://scholar.dickinson.edu/cgi/viewcontent.cgi?article=1001&amp;context=stream_of_consciousness" target="_blank">Stream of Consciousness: ALLARM</a>. (2016). Lead editor.</li>
-</ul>
+- [Travel Study Class Website: University of Vermont](http://blog.uvm.edu/netherlands/){:target="_blank"}. (2018). Lead editor.
+- [Stream of Consciousness: ALLARM](https://scholar.dickinson.edu/cgi/viewcontent.cgi?article=1048&context=stream_of_consciousness){:target="_blank"}. (2017). Lead editor.
+- [Outreach Brochure: ALLARM](https://indd.adobe.com/view/9d0449b4-4428-4204-aaf4-e6faabf037d3){:target="_blank"}. (2016). Lead editor.
+- [Stream of Consciousness: ALLARM](http://scholar.dickinson.edu/cgi/viewcontent.cgi?article=1001&amp;context=stream_of_consciousness){:target="_blank"}. (2016). Lead editor.
