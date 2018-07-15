@@ -107,7 +107,7 @@ div.card {
   div.card {
     display:inline-block;
     width: 43%;
-    margin: 3%;
+    padding: var(--content-spacing);
     height: 350px;
   }
 }
