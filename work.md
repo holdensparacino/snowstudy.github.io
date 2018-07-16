@@ -3,7 +3,7 @@ layout: default
 title: Work
 ---
 <h1 class="featured-text">Notable Projects, Publications, and Presentations</h1>
-<div class="line-break">
+<div class="line-break"></div>
 ## University of Vermont
 
 <div class="card" id="card-deicing-conference" style="cursor: pointer;" onclick="window.open('https://lcwroadsalt.wixsite.com/conference', '_blank')">
@@ -25,7 +25,7 @@ title: Work
 - Design and implement a regional survey to winter maintenance private contractors throughout the Lake Champlain region to assess current practices, management characteristics, and barriers to changing behaviors.
 - Interview private contractors on their management practices and ways to implement changes.
 - Assist professors in lectures, materials creation, and grading, including Ecology, Social Processes and the Environment, and Water Management and Sustainability in the Netherlands.
-</div>
+<div class="line-break"></div>
 ## Other Notable Projects
 
 <div class="card" id="card-volmon" style="cursor: pointer;" onclick="window.open('http://www.volunteermonitoring.org/', '_blank')">
@@ -43,7 +43,7 @@ title: Work
 <h3 class="featured-text">I contribute to outreach by the USA Volunteer Monitoring Network, and have worked with volunteer groups in New York and Pennsylvania to monitor their local streams for shale gase development impacts</h3>
 - Managed ALLARM's regional shale gas monitoring program across Pennsylvania, including training new volunteers on ALLARM's shale gas monitoring protocol, supporting current volunteers through community meetings and resources, and organizing volunteer data to increase usability and visibility.
 - Contribute to the USA Volunteer Monitoring Network’s online resources and social media outreach (@volmonitor), promote community conversations.
-
+<div class="line-break"></div>
 ## Publications
 
 - Sparacino, H. (2017). [Launching a Regional Water Quality Database with CitSci.org](https://www.citsci.org/CWIS438/Websites/CitSci/BlogPost.php?ID=797){:target="_blank"}. *Citsci.org*.
