@@ -126,23 +126,7 @@ li {
   margin: auto;
 }
 
-/*Responsive layout */
-
-@media screen and (min-width:700px) {
-   div.card {
-    display:inline-block;
-    width: 43%;
-    margin: 3%;
-    height: 350px;
-  }
-  
-  div.content-block {
-    display:inline-block;
-    width: 49%;
-    margin: auto;
-    vertical-align: middle;
-  }
-}  
+/* Card layout (responsive below, renders after) */
 
 div.card {
   width: 350px;
@@ -165,6 +149,24 @@ div.card-container {
   bottom: 0;
   width: 100%;
 }
+
+/*Responsive layout (card and about pages */
+
+@media screen and (min-width:700px) {
+   div.card {
+    display:inline-block;
+    width: 43%;
+    margin: 3%;
+    height: 350px;
+  }
+  
+  div.content-block {
+    display:inline-block;
+    width: 49%;
+    margin: auto;
+    vertical-align: middle;
+  }
+}  
 
 /* Footer styling */
 
