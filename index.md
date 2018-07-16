@@ -1,4 +1,4 @@
-<h3 class="page-intro">I research human impacts on water quality and work to engage communities in water resource decisions.</h3>
+<h3 class="featured-text">I research human impacts on water quality and work to engage communities in water resource decisions.</h3>
    <div class="card" id="card-deicing-conference" style="cursor: pointer;" onclick="window.open('https://lcwroadsalt.wixsite.com/conference', '_blank')">
     <div class="card-container">
     <h2>Deicing Conference</h2>
