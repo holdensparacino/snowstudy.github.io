@@ -23,3 +23,4 @@
     <p>Writing about my research, travels, and ongoing projects</p>
   </div>
 </div>
+<h3 class="featured-text"><a href="/work">More projects</a></h3>
