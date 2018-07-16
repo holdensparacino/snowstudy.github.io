@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-/* Theme colors and spacing variables */
+/* Theme color and spacing variables */
 
 :root {
   --primary-theme-color: rgba(0, 77, 57, 1);
@@ -17,7 +17,7 @@
   --default-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
 
-/* Card images for index and portfolio */
+/* Card images for index and portfolio pages */
 
 #card-deicing-conference {
   background-image: url("/assets/deicing-conference.png");
@@ -48,7 +48,7 @@ body {
    padding-right: var(--content-spacing);
    padding-bottom: var(--content-spacing);
    margin-top: 1rem;
-   }
+}
 
 .page-header {
   background-image: url("/assets/20170729_110740_1_.jpg");
@@ -104,7 +104,7 @@ li {
   padding: 30px;
   max-width: 750px;
   margin: auto;
- }
+}
 
 #profile-intro {
   margin-bottom: 0;
@@ -117,7 +117,8 @@ li {
   margin: auto;
   padding-top: 10px;
   padding-bottom: 20px;
- }
+  max-width: 350px;
+}
 
 #contact-form {
   display: block;
@@ -139,7 +140,7 @@ div.card {
   background-size: cover;
   position: relative;
   height: 400px;
-        }
+}
 
 div.card-container {
   text-align: center;
@@ -179,7 +180,7 @@ ul.footer-list {
 
 ul.footer-list li {
   float: left;
-  }
+}
 
 ul.footer-list li a {
   display: block;
@@ -210,9 +211,9 @@ ul.footer-list li a img {
   opacity: 0.4;
   transition: 0.2s;
   width: 24px;
- }
+}
 
 ul.footer-list li a:hover img {
   opacity: 1.0;
   transition: 0.2s;
- }
+}
