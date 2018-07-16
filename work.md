@@ -2,7 +2,7 @@
 layout: default
 title: Work
 ---
-<h1 class="page-intro">Notable Projects, Publications, and Presentations</h1>
+<h1 class="featured-text">Notable Projects, Publications, and Presentations</h1>
 ## University of Vermont
 
 <div class="card" id="card-deicing-conference" style="cursor: pointer;" onclick="window.open('https://lcwroadsalt.wixsite.com/conference', '_blank')">
@@ -17,7 +17,7 @@ title: Work
     <p>Water management class in the Netherlands</p>
       </div>
 </div>
-<h3 class="page-intro">As a research student, I investigate the practices of private snow removal companies throughout the Lake Champlain basin</h3>
+<h3 class="featured-text">As a research student, I investigate the practices of private snow removal companies throughout the Lake Champlain basin</h3>
 - Research winter maintenance practices used by private contractors throughout the Lake Champlain region, using quantitative and qualitative data collection.
 - Create recommendations for implementing a social marketing campaign aimed at changing private contractors' management practices and reducing road salt usage in the Lake Champlain Basin.
 - Collaborate with area partners towards the implementation of a regional winter maintenance conference for private contractors and municipalities.
@@ -25,7 +25,7 @@ title: Work
 - Interview private contractors on their management practices and ways to implement changes.
 - Assist professors in lectures, materials creation, and grading, including Ecology, Social Processes and the Environment, and Water Management and Sustainability in the Netherlands.
 
-## Notable Projects
+## Other Notable Projects
 
 <div class="card" id="card-volmon" style="cursor: pointer;" onclick="window.open('http://www.volunteermonitoring.org/', '_blank')">
     <div class="card-container">
@@ -39,7 +39,7 @@ title: Work
     <p>Online open-access database created for volunteer monitors</p>
      </div>
 </div>
-<h3 class="page-intro">I contribute to outreach by the USA Volunteer Monitoring Network, and have worked with volunteer groups in New York and Pennsylvania to monitor their local streams for shale gase development impacts</h3>
+<h3 class="featured-text">I contribute to outreach by the USA Volunteer Monitoring Network, and have worked with volunteer groups in New York and Pennsylvania to monitor their local streams for shale gase development impacts</h3>
 - Managed ALLARM's regional shale gas monitoring program across Pennsylvania, including training new volunteers on ALLARM's shale gas monitoring protocol, supporting current volunteers through community meetings and resources, and organizing volunteer data to increase usability and visibility.
 - Contribute to the USA Volunteer Monitoring Network’s online resources and social media outreach (@volmonitor), promote community conversations.
 
