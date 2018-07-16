@@ -112,7 +112,6 @@ li {
 
 #profile {
   display: block;
-  max-width: 350px;
   max-width: 75%;
   height: auto;
   margin: auto;
@@ -160,7 +159,9 @@ div.card-container {
     margin: 3%;
     height: 350px;
   }
-  
+}
+
+@media screen and (min-width:680px) {
   div.content-block {
     display:inline-block;
     width: 49%;
