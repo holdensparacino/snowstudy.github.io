@@ -14,7 +14,7 @@ I had a lot of fun building this site. I am self-taught in web design, and have 
 
 This site uses [GitHub Pages](https://pages.github.com){:target="_blank"} to host and organize files. 
 
-The design is a modified [Cayman](https://pages-themes.github.io/cayman/){:target="_blank"} theme.
+The design uses a modified [Cayman](https://pages-themes.github.io/cayman/){:target="_blank"} theme.
 
 You can see the source files [here](https://github.com/holdensparacino/holdensparacino.github.io){:target="_blank"}.
 
