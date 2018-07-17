@@ -8,6 +8,7 @@ This site was built by me as a place to keep my projects organized, and as a way
 
 If you would like to use this content in other ways, or have questions about this site, please contact me below.
 <br/>
+<br/>
 <div class="line-break"></div>
 
 ## Site tools
