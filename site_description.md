@@ -1,5 +1,6 @@
 ---
 layout: default
+title: About This Site
 ---
 
 <h2 class="featured-text">About this site</h2>
