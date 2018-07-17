@@ -9,6 +9,7 @@ This site was built by me as a place to keep my projects organized, and as a way
 If you would like to use this content in other ways, or have questions about this site, please contact me below.
 
 <div class="line-break"></div>
+
 ## Site tools
 
 I had a lot of fun building this site. I am self-taught in web design, and have listed a few of the tools and resources below that were helpful to me in this process in the hope that they may be useful for you!
