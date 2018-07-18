@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Work
+description: Notable projects, publications, and presentations
 ---
 <h1 class="featured-text">Notable Projects, Publications, and Presentations</h1>
 <div class="line-break"></div>
