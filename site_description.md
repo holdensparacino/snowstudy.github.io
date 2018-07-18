@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About this site | Site usage
+title: About this site and site usage
 ---
 
 <h2 class="featured-text">About This Site</h2>
