@@ -1,6 +1,5 @@
 theme: jekyll-theme-cayman
 title: Holden Sparacino
-description: Graduate research student at the University of Vermont. I research water quality impacts and work to engage communities in water resource decisions. Latest projects and writing on my research and travels. 
 google_analytics: UA-71628943-4
 plugins:
   - jekyll-sitemap
