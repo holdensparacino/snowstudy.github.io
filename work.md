@@ -6,13 +6,13 @@ title: Work
 <div class="line-break"></div>
 ## University of Vermont
 
-<div class="card" id="card-deicing-conference" style="cursor: pointer;" onclick="window.open('https://lcwroadsalt.wixsite.com/conference', '_blank')">
+<div class="card" id="card-deicing-conference" style="cursor: pointer;" onclick="window.open('/deicing-conference.html',)">
     <div class="card-container">
     <h2>Deicing Conference</h2>
     <p>Summit for snow removal professionals on best practices</p>
       </div>
 </div>
-<div class="card" id="card-netherlands" style="cursor: pointer;" onclick="window.open('http://blog.uvm.edu/netherlands/', '_blank')">
+<div class="card" id="card-netherlands" style="cursor: pointer;" onclick="window.open('/netherlands.html',)">
     <div class="card-container">
     <h2>NL Travel Course</h2>
     <p>Water management class in the Netherlands</p>
@@ -28,13 +28,13 @@ title: Work
 <div class="line-break"></div>
 ## Other Notable Projects
 
-<div class="card" id="card-volmon" style="cursor: pointer;" onclick="window.open('http://www.volunteermonitoring.org/', '_blank')">
+<div class="card" id="card-volmon" style="cursor: pointer;" onclick="window.open('volmon.html',)">
     <div class="card-container">
     <h2>VolMon Network</h2>
     <p>Resource repository for water quality monitoring groups</p>
       </div>
 </div>
-<div class="card" id="card-allarmwater" style="cursor: pointer;" onclick="window.open('https://www.citsci.org/CWIS438/Websites/CitSci/BlogPost.php?ID=797', '_blank')">
+<div class="card" id="card-allarmwater" style="cursor: pointer;" onclick="window.open('/shale-gas.html',)">
     <div class="card-container">
     <h2>Shale Gas Database</h2>
     <p>Online open-access database created for volunteer monitors</p>
@@ -42,7 +42,7 @@ title: Work
 </div>
 <h3 class="featured-text">I contribute to outreach by the USA Volunteer Monitoring Network, and have worked with volunteer groups in New York and Pennsylvania to monitor their local streams for shale gase development impacts</h3>
 - Managed ALLARM's regional shale gas monitoring program across Pennsylvania, including training new volunteers on ALLARM's shale gas monitoring protocol, supporting current volunteers through community meetings and resources, and organizing volunteer data to increase usability and visibility.
-- Contribute to the USA Volunteer Monitoring Network’s online resources and social media outreach (@volmonitor), promote community conversations.
+- Contribute to the USA Volunteer Monitoring Network’s online resources and social media outreach ([@volmonitor](https://twitter.com/volmonitor)), promote community conversations.
 <div class="line-break"></div>
 ## Publications
 
