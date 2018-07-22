@@ -1,4 +1,4 @@
-## UVM Deicing Conference
+## Lake Champlain Deicing Conference
 
 ![Deicing Conference](/assets/deicing-conference.jpg)
 
