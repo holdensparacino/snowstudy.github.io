@@ -21,7 +21,7 @@
 /* Top navigation menu styling */
 
 .topnav-box {
-  border-bottom: 1px solid var(--secondary-theme-color);
+  border-bottom: 1px solid var(--line-break-color);
   width: 100%;
   position: fixed;
   z-index: 5;
@@ -52,10 +52,9 @@
   margin: auto;
 }
 
-.topnav a:first-child, a:first-child:hover {
+.topnav a:first-child, {
   float: left;
-  border-bottom: 5px solid var(--background-color);
-}
+  }
 
 .topnav a:not(:first-child):hover {
   border-bottom: 5px solid var(--secondary-theme-color);
