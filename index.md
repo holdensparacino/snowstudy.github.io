@@ -24,4 +24,3 @@
   </div>
 </div>
 <h3 class="featured-text"><a href="/work">More projects</a></h3>
-<a class="twitter-timeline" data-width="600" data-height="500" data-dnt="true" data-theme="light" data-link-color="#009970" href="https://twitter.com/holdensparacino?ref_src=twsrc%5Etfw">Tweets by holdensparacino</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
