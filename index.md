@@ -11,7 +11,7 @@
     <p>Resource repository for water quality monitoring groups</p>
   </div>
 </div>
-<div class="card" id="card-allarmwater" style="cursor: pointer;" onclick="window.open('/allarmwater.html', '_blank')">
+<div class="card" id="card-allarmwater" style="cursor: pointer;" onclick="window.open('/shale-gas.html', '_blank')">
     <div class="card-container">
     <h2>Shale Gas Database</h2>
     <p>Online open-access database created for volunteer monitors</p>
