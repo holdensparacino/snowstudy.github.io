@@ -28,7 +28,7 @@ title: Work
 <div class="line-break"></div>
 ## Other Notable Projects
 
-<div class="card" id="card-volmon" style="cursor: pointer;" onclick="window.open('volmon.html',)">
+<div class="card" id="card-volmon" style="cursor: pointer;" onclick="window.open('/volmon.html',)">
     <div class="card-container">
     <h2>VolMon Network</h2>
     <p>Resource repository for water quality monitoring groups</p>
