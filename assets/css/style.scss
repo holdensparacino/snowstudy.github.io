@@ -21,11 +21,13 @@
 /* Top navigation menu styling */
 
 .topnav-box {
-border-bottom: 1px solid var(--secondary-theme-color);
-width: 100%;
-position: fixed;
-top: 0;
-background-color: var(--background-color);
+  border-bottom: 1px solid var(--secondary-theme-color);
+  width: 100%;
+  position: fixed;
+  z-index: 5;
+  top: 0;
+  background-color: var(--background-color);
+  
 }
 
 .topnav {
@@ -33,7 +35,8 @@ background-color: var(--background-color);
   max-width: 600px;
   margin: auto;
   background-color: var(--background-color);
-  }
+  z-index: 6;
+}
 
 .topnav a {
   float: right;
@@ -50,12 +53,11 @@ background-color: var(--background-color);
 }
 
 .topnav a:first-child, a:first-child:hover {
-float: left;
- border-bottom: 5px solid var(--background-color);
+  float: left;
+  border-bottom: 5px solid var(--background-color);
 }
 
 .topnav a:not(:first-child):hover {
-  
   border-bottom: 5px solid var(--secondary-theme-color);
   transition: 0.3s;
 }
@@ -64,7 +66,7 @@ float: left;
   display: none;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 300px) {
   .topnav a:not(:first-child) {display: none;}
   .topnav a.icon {
     float: right;
@@ -72,7 +74,7 @@ float: left;
   }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 300px) {
   .topnav.responsive {position: relative;}
   .topnav.responsive .icon {
     position: absolute;
