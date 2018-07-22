@@ -59,7 +59,14 @@
 .topnav a:not(:first-child):hover, .topnavLink.active {
   color: var(--text-color);
   border-bottom: 5px solid var(--secondary-theme-color);
+  }
+
+.topnav a:not(:first-child):hover {
   transition: 0.3s;
+}
+
+.topnavLink.active {
+  transition: 0.0s;
 }
 
 #topnavLogo {
