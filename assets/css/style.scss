@@ -56,7 +56,7 @@
   float: left;
   }
 
-.topnav a:not(:first-child):hover, topnavLink.active, {
+.topnav a:not(:first-child):hover, topnavLink.active a, {
   color: var(--text-color);
   border-bottom: 5px solid var(--secondary-theme-color);
   transition: 0.3s;
