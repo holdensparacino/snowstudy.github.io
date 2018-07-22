@@ -21,7 +21,7 @@
 /* Top navigation menu styling */
 
 .topnav-box {
-border-bottom: 1px solid var(--line-break-color);
+border-bottom: 1px solid var(--secondary-theme-color);
 width: 100%;
 position: fixed;
 top: 0;
@@ -38,14 +38,14 @@ background-color: var(--background-color);
 .topnav a {
   float: right;
   display: block;
-  color: var(--text-color);
+  color: var(--secondary-theme-color);
   text-align: center;
   padding: 20px 14px 16px 16px;
   text-decoration: none;
   font-size: 17px;
   border-bottom: 5px solid var(--background-color);
   transition: 0.2s;
-  max-width: 600px;
+  max-width: 832px;
   margin: auto;
 }
 
