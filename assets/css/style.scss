@@ -92,6 +92,10 @@
 height: 68px;
 }
 
+.page-header:not(:.active) {
+  display: none;
+}
+
 /* Card images for index and portfolio pages */
 
 #card-deicing-conference {
