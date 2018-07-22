@@ -13,7 +13,7 @@ You can [read about ALLARM's collaboration with CitSci](https://www.citsci.org/C
 <div class="card" id="card-allarmwater" style="cursor: pointer;" onclick="window.open('/work', '_blank')">
     <div class="card-container">
     <h2>Other Projects</h2>
-    <p>Learn about other current and past projects</p>
+    <p>Learn more about other current and past projects</p>
   </div>
 </div>
 <div class="card" id="card-blog" style="cursor: pointer;" onclick="window.open('https://medium.com/@holdensparacino/latest', '_blank')">
