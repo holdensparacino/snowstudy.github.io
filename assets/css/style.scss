@@ -92,8 +92,13 @@
 height: 68px;
 }
 
-.page-header:not(:.active) {
+/* Hide the page header if not /index */
+.page-header {
   display: none;
+}
+
+.page-header.active {
+  display: block;
 }
 
 /* Card images for index and portfolio pages */
