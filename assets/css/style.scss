@@ -56,7 +56,8 @@
   float: left;
   }
 
-.topnav a:not(:first-child):hover {
+.topnav a:not(:first-child):hover, .topnav a:not(:first-child).active {
+  color: var(--text-color);
   border-bottom: 5px solid var(--secondary-theme-color);
   transition: 0.3s;
 }
