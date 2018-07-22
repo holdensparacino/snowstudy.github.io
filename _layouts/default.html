@@ -34,16 +34,20 @@
 			  if (window.location.pathname === "/work") {
 				  x.className += " active";
 			  }
-			  if (window.location.pathname === "/about") {
-					  y.className += " active";
-			  }
-			  if (window.location.pathname === "/") {
-				  z.className += " active";
-			  }
 			  else {
-				  x.className = "topnavLink";
-				  y.className = "topnavLink";
-				  z.className = "page-header";
+				  if (window.location.pathname === "/about") {
+					  y.className += " active";
+				  }
+				  else {
+					  if (window.location.pathname === "/") {
+						  z.className += " active";
+					  }
+					  else {
+						  x.className = "topnavLink";
+						  y.className = "topnavLink";
+						  z.className = "page-header";
+					  }
+				  }
 			  }
 		  }
 		  
@@ -54,7 +58,7 @@
   <body  onload="toggleActive()">
 	  <div class="topnav-box">
 		  <div class="topnav" id="myTopnav">
-			  <a class="topnavLink" href="/">Home</a>
+			  <a class="topnavLink" id="topnavLogo" href="/"><img src="/assets/small-logo.png"</a>
 			  <a class="topnavLink" id="topnavAbout" href="/about">about</a>
 			  <a class="topnavLink" href="https://medium.com/@holdensparacino" target="_blank">blog</a>
 			  <a class="topnavLink" id="topnavWork" href="/work">work</a>
