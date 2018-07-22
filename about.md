@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 <div class="content-block">
-  <h1 class="featured-text" class="profile-intro">About Me
+  <h1 class="featured-text" id="profile-intro">About Me
   </h1>
   </div>
 <div class="content-block">
