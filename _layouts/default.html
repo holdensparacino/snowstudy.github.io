@@ -29,6 +29,7 @@
 		  function toggleActive() {
 			  var x =document.getElementById("topnavWork");
 			  var y =document.getElementById("topnavAbout");
+			  var z =document.getElementById("theHeader")
 			  if (window.location.pathname === "/work") {
 				  x.className += " active";
 			  }
@@ -36,9 +37,13 @@
 				  if (window.location.pathname === "/about") {
 					  y.className += " active";
 				  }
-				  else {
-					  x.className = "topnavLink";
-					  y.className = "topnavLink";
+				  else  {
+					  if (window.location.pathname === "/") {
+					  z.className += " active";
+					  else {
+						  x.className = "topnavLink";
+						  y.className = "topnavLink";
+						  z.className = "page-header";
 				  }
 			  }
 		  }
@@ -58,7 +63,7 @@
 	  </div>
 	  <div class="top-spacer"></div>
    
-	  <header class="page-header" role="banner">
+	  <header class="page-header" role="banner" id="theHeader">
 		  	  <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
 			  <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 		<!-- Alt menu (replaced by topnav)
