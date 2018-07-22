@@ -26,6 +26,7 @@
 				  x.className = "topnav";
 			  }
 		  }
+		  
 		  function toggleActive() {
 			  var x =document.getElementById("topnavWork");
 			  var y =document.getElementById("topnavAbout");
@@ -33,20 +34,19 @@
 			  if (window.location.pathname === "/work") {
 				  x.className += " active";
 			  }
-			  else {
-				  if (window.location.pathname === "/about") {
+			  if (window.location.pathname === "/about") {
 					  y.className += " active";
-				  }
-				  else  {
-					  if (window.location.pathname === "/") {
-						  z.className += " active";
-					  else {
-						  x.className = "topnavLink";
-						  y.className = "topnavLink";
-						  z.className = "page-header";
-				  }
+			  }
+			  if (window.location.pathname === "/") {
+				  z.className += " active";
+			  }
+			  else {
+				  x.className = "topnavLink";
+				  y.className = "topnavLink";
+				  z.className = "page-header";
 			  }
 		  }
+		  
 	  </script>
 
   </head>
