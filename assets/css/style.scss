@@ -108,6 +108,13 @@ height: 68px;
 /* Hide the page header if not /index */
 .page-header {
   display: none;
+  background-image: url("/assets/background.jpg");
+  background-color: var(--background-color);
+  height: 75%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
  }
 
 .page-header.active {
@@ -147,19 +154,14 @@ body {
    margin-top: 1rem;
 }
 
-.page-header {
-  background-image: url("/assets/background.jpg");
-  background-color: var(--background-color);
-  height: 75%;
-  background-position: center;
-  background-size: cover;
-}
-
 .project-name, .project-tagline {
   color: var(--background-color);
   opacity: 1;
-  margin-top: 5%;
-  margin-bottom: 5%
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .hidden-link, .hidden-link:hover {
