@@ -1,5 +1,4 @@
-## University of Vermont Travel Course:
-### Water Management and Sustainability in the Netherlands
+## University of Vermont Travel Course: Water Management and Sustainability in the Netherlands
 
 ![Netherlands](/assets/netherlands.jpg)
 
@@ -10,6 +9,8 @@ The course was a lot of fun, and every day we were able to see something new, fr
 It was exciting not only to see these systems and learn how another country is tackling the issues of sea level rise and climate change, but also to talk with the students and discuss how these techniques can be implemented in the United States and other countries.
 
 One of my projects for the course was maintaining a [class blog](http://blog.uvm.edu/netherlands/), where students posted about their adventures daily!
+
+- [Netherlands Class Blog](http://blog.uvm.edu/netherlands/)
 
 <div class="card" id="card-allarmwater" style="cursor: pointer;" onClick="window.location='/work';">
     <div class="card-container">
