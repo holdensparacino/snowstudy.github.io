@@ -10,6 +10,8 @@ It was exciting not only to see these systems and learn how another country is t
 
 One of my projects for the course was maintaining a [class blog](http://blog.uvm.edu/netherlands/), where students posted about their adventures daily!
 
+## Learn more
+
 - [Netherlands Class Blog](http://blog.uvm.edu/netherlands/)
 
 <div class="card" id="card-allarmwater" style="cursor: pointer;" onClick="window.location='/work';">
