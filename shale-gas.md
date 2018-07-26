@@ -10,7 +10,7 @@ The database now houses historical data including thousands of observations acro
 
 You can [read about ALLARM's collaboration with CitSci](https://www.citsci.org/CitSciBlog/797/Launching%20a%20Regional%20Water%20Quality%20Database%20with%20CitSci.org) or [visit the database yourself](http://allarmwater.org) for more information.
 
-<div class="card" id="card-allarmwater" style="cursor: pointer;" onclick="window.open('/work',)">
+<div class="card" id="card-allarmwater" style="cursor: pointer;" onclick="window.location('/work',)">
     <div class="card-container">
     <h2>Other Projects</h2>
     <p>Learn more about other current and past projects</p>
