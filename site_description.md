@@ -3,11 +3,17 @@ layout: default
 title: About this site and site usage
 ---
 
-<h2 class="featured-text">About This Site</h2>
+## About this site
 
-This site was built by me as a place to keep my projects organized, and as a way for me to continue coding. External projects and work linked to through this site may indicate specific usage licenses. Unless otherwise noted, content on this site is copyrighted by Holden Sparacino. 
+This site was built by me as a place to keep my projects organized, and as a self-taught coder, for me to continue to learn.
+
+## Site Usage
+
+External projects and work linked to through this site may indicate specific usage licenses. Unless otherwise noted, content on this site is copyrighted by Holden Sparacino. 
 
 If you would like to use this content in other ways, or have questions about this site, please contact me below.
+
+I use Google Analytics to keep track of this site's stats. You can [learn about Google Analytics' use of data](https://policies.google.com/privacy?hl=en&gl=us) if you're curious.
 
 <div class="line-break"></div>
 
