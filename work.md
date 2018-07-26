@@ -11,7 +11,7 @@ description: Projects, publications, and presentations on community-based scienc
     <p>Summit for snow removal professionals on best practices</p>
       </div>
 </div>
-<div class="card" id="card-netherlands" style="cursor: pointer;" onClick="window.open='/netherlands.html';">
+<div class="card" id="card-netherlands" style="cursor: pointer;" onClick="window.location='/netherlands.html';">
     <div class="card-container">
     <h2>NL Travel Course</h2>
     <p>Water management class in the Netherlands</p>
@@ -27,13 +27,13 @@ description: Projects, publications, and presentations on community-based scienc
 <div class="line-break"></div>
 ## Other Notable Projects
 
-<div class="card" id="card-volmon" style="cursor: pointer;" onClick="window.open='/volmon.html';">
+<div class="card" id="card-volmon" style="cursor: pointer;" onClick="window.location='/volmon.html';">
     <div class="card-container">
     <h2>VolMon Network</h2>
     <p>Resource repository for water quality monitoring groups</p>
       </div>
 </div>
-<div class="card" id="card-allarmwater" style="cursor: pointer;" onClick="window.open='/shale-gas.html';">
+<div class="card" id="card-allarmwater" style="cursor: pointer;" onClick="window.location='/shale-gas.html';">
     <div class="card-container">
     <h2>Shale Gas Database</h2>
     <p>Online open-access database created for volunteer monitors</p>
