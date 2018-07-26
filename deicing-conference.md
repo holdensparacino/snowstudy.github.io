@@ -8,6 +8,13 @@ I assisted in the planning and coordination of the conference, including speaker
 
 The conference was well attended, leading to plans of future conferences in the area in order to continue to engage with municipalities and private contractors on the environemental impacts of winter road maintenance on the Lake Champlain Basin and mitigation efforts.
 
+##Learn more
+
+- [Free Road Salt Conference to be held in Burlington - VTdigger.org](https://vtdigger.org/2017/09/07/free-road-salt-conference-held-burlington/)
+- [Road Salt and Deicing Event to Take Place at UVM - University of Vermont](https://www.uvm.edu/newsstories/news/road-salt-and-deicing-event-take-place-uvm)
+- [2017 Lake Champlain Deicing Conference homepage](https://lcwroadsalt.wixsite.com/conference)
+- [Recorded Conference talks](https://lcwroadsalt.wixsite.com/conference/2017-conference)
+
 <div class="card" id="card-allarmwater" style="cursor: pointer;" onClick="window.location='/work';">
     <div class="card-container">
     <h2>Other Projects</h2>
