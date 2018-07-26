@@ -16,36 +16,26 @@
 		  function gtag(){dataLayer.push(arguments);}
 		  gtag('js', new Date());
 		  gtag('config', 'UA-71628943-1');
-	 
-		  function toggleMenu() {
-			  var x = document.getElementById("myTopnav");
-			  if (x.className === "topnav") {
-				  x.className += " responsive";
-			  }
-			  else {
-				  x.className = "topnav";
-			  }
-		  }
-		  
+	   
 		  function toggleActive() {
-			  var x =document.getElementById("topnavWork");
-			  var y =document.getElementById("topnavAbout");
-			  var z =document.getElementById("theHeader");
-			  if (window.location.pathname === "/work") {
+			  var x =document.getElementById("theHeader");
+			  var y =document.getElementById("topnavWork");
+			  var z =document.getElementById("topnavAbout");
+			  if (window.location.pathname === "/") {
 				  x.className += " active";
 			  }
 			  else {
-				  if (window.location.pathname === "/about") {
+				  if (window.location.pathname === "/work") {
 					  y.className += " active";
 				  }
 				  else {
-					  if (window.location.pathname === "/") {
+					  if (window.location.pathname === "/about") {
 						  z.className += " active";
 					  }
 					  else {
-						  x.className = "topnavLink";
+						  x.className = "page-header";
 						  y.className = "topnavLink";
-						  z.className = "page-header";
+						  z.className = "topnavLink";
 					  }
 				  }
 			  }
