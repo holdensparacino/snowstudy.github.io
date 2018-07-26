@@ -198,12 +198,6 @@ li {
   margin-bottom: 0;
 }
 
-@media screen and (max-width: 660px) {
-  #profile-intro {
-    display: none;
-  }
-}
-
 #profile-img {
   display: block;
   max-width: 75%;
@@ -264,6 +258,12 @@ div.card-container {
     vertical-align: middle;
   }
 }  
+
+@media screen and (max-width: 654px) {
+  #profile-intro {
+    display: none;
+  }
+}
 
 /* Footer styling */
 
