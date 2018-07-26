@@ -8,7 +8,10 @@ ALLARM's shale gas program had been in existance for multiple years, created by 
 
 The database now houses historical data including thousands of observations across hundreds of sites, serves as a collection of resources for volunteer monitors interested in monitoring their streams for shale gas impacts, and allows volunteers to record new data, as well as interpret regional data in the form of graphs, descriptive statistics, and by downloading datasets.
 
-You can [read about ALLARM's collaboration with CitSci](https://www.citsci.org/CitSciBlog/797/Launching%20a%20Regional%20Water%20Quality%20Database%20with%20CitSci.org) or [visit the database yourself](http://allarmwater.org) for more information.
+#### More information
+
+- [ALLARM's collaboration with CitSci](https://www.citsci.org/CitSciBlog/797/Launching%20a%20Regional%20Water%20Quality%20Database%20with%20CitSci.org)
+- [Online database](http://allarmwater.org)
 
 <div class="card" id="card-allarmwater" style="cursor: pointer;" onClick="window.location='/work';">
     <div class="card-container">
