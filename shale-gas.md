@@ -10,8 +10,8 @@ The database now houses historical data including thousands of observations acro
 
 ## Learn more
 
-- [ALLARM's collaboration with CitSci](https://www.citsci.org/CitSciBlog/797/Launching%20a%20Regional%20Water%20Quality%20Database%20with%20CitSci.org)
-- [Online database](http://allarmwater.org)
+- [Launching a Regional Water Quality Database - CitSci.org](https://www.citsci.org/CitSciBlog/797/Launching%20a%20Regional%20Water%20Quality%20Database%20with%20CitSci.org)
+- [ALLARM's Shale Gas database - ALLARMwater.org](http://allarmwater.org)
 
 <div class="card" id="card-allarmwater" style="cursor: pointer;" onClick="window.location='/work';">
     <div class="card-container">
