@@ -10,13 +10,13 @@ This involves positing relevant resources and monitoring protocols on the websit
 
 Through my graduate work, I have enjoyed the continued connection with volunteers in this capacity, and am excited by the discussions the outreach creates.
 
-<div class="card" id="card-allarmwater" style="cursor: pointer;" onclick="window.open('/work',)">
+<div class="card" id="card-allarmwater" style="cursor: pointer;" onClick="window.location='/work';">
     <div class="card-container">
     <h2>Other Projects</h2>
     <p>Learn more about other current and past projects</p>
   </div>
 </div>
-<div class="card" id="card-blog" style="cursor: pointer;" onclick="window.open('https://medium.com/@holdensparacino/latest', '_blank')">
+<div class="card" id="card-blog" style="cursor: pointer;" onClick="window.open('https://medium.com/@holdensparacino/latest', '_blank')">
     <div class="card-container">
     <h2>Latest Blog Post</h2>
     <p>Writing about my research, travels, and ongoing work</p>
