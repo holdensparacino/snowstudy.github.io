@@ -10,7 +10,7 @@ This involves positing relevant resources and monitoring protocols on the websit
 
 Through my graduate work, I have enjoyed the continued connection with volunteers in this capacity, and am excited by the discussions the outreach creates.
 
-## More information
+## Learn more
 
 - [USA Volunteer Monitoring Newtwork](http://www.volunteermonitoring.org/)
 - [@Volmonitor](https://twitter.com/volmonitor)
