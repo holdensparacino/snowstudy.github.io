@@ -3,11 +3,11 @@ layout: default
 title: About
 ---
 <div class="content-block">
-  <h1 class="featured-text" id="profile-intro">About Me
+  <h1 class="featured-text split-intro" id="profile-intro">About Me
   </h1>
   </div>
 <div class="content-block">
-  <img src="/assets/profile.png" id="profile-img">
+  <img src="/assets/profile.png" class="split-img">
   </div>
 
 I am a graduate research student at the University of Vermont, interested in connecting communities to decisions about their water resources. 
