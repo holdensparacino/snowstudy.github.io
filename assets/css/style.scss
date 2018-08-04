@@ -126,7 +126,7 @@ height: 68px;
 }
 /* Hero Image and Text */
 
-.hero-image {
+.masthead {
   /* The image used */
   background-image: url("/assets/background.jpg");
 
@@ -137,17 +137,18 @@ height: 68px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  position: relative;
+  
 }
 
 /* Place text in the middle of the image */
-.hero-text {
+.masthead-text {
   text-align: center;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: white;
+  color: var(--background-color);
+  display: none;
 }
 
 /* Card images for index and portfolio pages */
