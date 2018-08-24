@@ -15,8 +15,6 @@ If you would like to use this content in other ways, or have questions about thi
 
 I use Google Analytics to keep track of this site's stats. You can [learn about Google Analytics' use of data](https://policies.google.com/privacy?hl=en&gl=us) if you're curious.
 
-<div class="line-break"></div>
-
 ## Site Tools
 
 I had a lot of fun building this site. I am self-taught in web design, and have listed a few of the tools and resources below that were helpful to me in this process. They may be useful to you also!
