@@ -107,7 +107,6 @@ height: 68px;
 
 /* Hide the page header if not /index */
 .page-header #theheader {
-  display: none;
   background-image: url("/assets/background.jpg");
   background-color: var(--background-color);
   background-position: center;
@@ -116,6 +115,7 @@ height: 68px;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+  display: none;
 }
 
 .page-header.active {
