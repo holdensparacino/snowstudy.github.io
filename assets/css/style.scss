@@ -106,19 +106,20 @@ height: 68px;
 }
 
 /* Hide the page header if not /index */
-.page-header {
+.page-header #theheader {
   display: none;
   background-image: url("/assets/background.jpg");
   background-color: var(--background-color);
   background-position: center;
+  width: 100%;
+  height: 75%;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
- }
+}
 
 .page-header.active {
   display: block;
-  height: 75%;
 }
 
 /* Card images for index and portfolio pages */
@@ -152,14 +153,6 @@ body {
    padding-right: var(--content-spacing);
    padding-bottom: var(--content-spacing);
    margin-top: 1rem;
-}
-
-.page-header {
-  background-image: url("/assets/background.jpg");
-  background-color: var(--background-color);
-  width: 100%;
-  background-position: center;
-  background-size: cover;
 }
 
 .project-name, .project-tagline {
