@@ -106,7 +106,7 @@ height: 68px;
 }
 
 /* Hide the page header if not /index */
-.page-header #theheader {
+#theheader .page-header {
   background-image: url("/assets/background.jpg");
   background-color: var(--background-color);
   background-position: center;
@@ -118,7 +118,7 @@ height: 68px;
   display: none;
 }
 
-.page-header.active {
+#theheader .page-header.active {
   display: block;
 }
 
