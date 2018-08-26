@@ -158,8 +158,9 @@ body {
 .project-name, .project-tagline {
   color: var(--background-color);
   opacity: 1;
-  margin-top: 1.5em;
-  margin-bottom: 1.5em;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 4%
 }
 
 .hidden-link, .hidden-link:hover {
