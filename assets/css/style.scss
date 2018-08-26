@@ -115,6 +115,7 @@ height: 68px;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+  padding: 5em 2em;
 }
 
 .page-header.active {
@@ -157,8 +158,8 @@ body {
 .project-name, .project-tagline {
   color: var(--background-color);
   opacity: 1;
-  margin-top: 5%;
-  margin-bottom: 5%
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
 }
 
 .hidden-link, .hidden-link:hover {
