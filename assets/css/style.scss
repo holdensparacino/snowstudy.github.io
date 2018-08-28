@@ -246,6 +246,7 @@ div.card {
 
 div.card:hover {
   box-shadow: var(--hover-box-shadow);
+  transition: 0.2s;
 }
 
 div.card-container {
