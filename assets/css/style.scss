@@ -88,6 +88,8 @@ div.shade {
   z-index: 4;
   }
 
+/*Responsive menu styling */
+
 @media screen and (max-width: 400px) {
   .topnav a:not(:first-child) {display: none;}
   .topnav a.icon {
@@ -107,6 +109,7 @@ div.shade {
   }
   div.shade.show {
     display: block;
+    opacity: 0.5;
   } 
 }
 
