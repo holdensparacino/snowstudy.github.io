@@ -78,7 +78,7 @@
   display: none;
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 400px) {
   .topnav a:not(:first-child) {display: none;}
   .topnav a.icon {
     float: right;
@@ -86,7 +86,7 @@
   }
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 400px) {
   .topnav.responsive {position: relative;}
   .topnav.responsive .icon {
     position: absolute;
@@ -100,6 +100,19 @@
     text-align: left;
   }
 }
+div.shade {
+  display: none;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 120%;
+  background-color: var(--background-color);
+  z-index: 90;
+}
+
+div.shade.show {
+  display: block;
+  } 
 
 .top-spacer {
 height: 68px;

@@ -65,7 +65,7 @@
 			  <a class="topnavLink" id="topnavAbout" href="/about">about</a>
 			  <a class="topnavLink" href="https://medium.com/@holdensparacino" target="_blank">blog</a>
 			  <a class="topnavLink" id="topnavWork" href="/work">work</a>
-			  <a href="javascript:void(0);" class="icon" onclick="toggleMenu()">&#8942;</a>
+			  <a href="javascript:void(0);" class="icon" id="myIcon" onclick="toggleMenu()">&#8942;</a>
 		  </div>
 	  </div>
 	  <div class="top-spacer"></div>
@@ -74,6 +74,7 @@
 		  <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
 		  <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 	  </header>
+	  <a href="javascript:void(0);" onclick="toggleMenu()"><div class="shade" id="myShade"></div></a>
 
     <main id="content" class="main-content" role="main">
       {{ content }}
