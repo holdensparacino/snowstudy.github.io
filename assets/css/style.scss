@@ -107,8 +107,8 @@ div.shade {
   width: 100%;
   height: 120%;
   background-color: var(--background-color);
-  z-index: 90;
-}
+  z-index: 4;
+  }
 
 div.shade.show {
   display: block;
