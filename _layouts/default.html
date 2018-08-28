@@ -40,10 +40,23 @@
 				  }
 			  }
 		  }
-		  
 	  </script>
-
-  </head>
+	  <script language="javascript">
+        /* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
+		function toggleMenu() {
+			var x = document.getElementById("myTopnav");
+			var y = document.getElementById("myShade");
+			if (x.className === "topnav") {
+				x.className += " responsive";
+				y.className += " show";
+			} 
+			else {
+				x.className = "topnav";
+				y.className = "shade";
+			}
+		}
+		</script>
+		</head>
   
   <body  onload="toggleActive()">
 	  <div class="topnav-box">
