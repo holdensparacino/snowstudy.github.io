@@ -16,7 +16,7 @@
   --content-spacing: 0.75rem;
   --line-break-color: #eff0f1;
   --default-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  --hover-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  --hover-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.4);
   }
 
 /* Top navigation menu styling */
@@ -242,6 +242,7 @@ div.card {
   background-size: cover;
   position: relative;
   height: 400px;
+  transition: 0.2s;
   }
 
 div.card:hover {
