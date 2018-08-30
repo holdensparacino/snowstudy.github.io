@@ -44,11 +44,20 @@
 	  <script language="javascript">
         /* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
 		function toggleMenu() {
-			var x = document.getElementById("myTopnav");
-			var y = document.getElementById("myShade");
+			var x = document.getElementById("myTopnav"),
+				y = document.getElementById("myShade"),
+				ul = $('ul#ulName'),
+				li = ul.children('li');
 			if (x.className === "topnav") {
 				x.className += " responsive";
 				y.className += " show";
+				
+				/* Re-sorts list */
+				li.detach().sort(function(a,b) {
+					return $(a).data('responsive-sort') - $(b).data('responsive-sort');  
+					});
+					ul.append(li);
+					});
 			} 
 			else {
 				x.className = "topnav";
@@ -62,9 +71,14 @@
 	  <div class="topnav-box">
 		  <div class="topnav" id="myTopnav" onload="toggleMenu()">
 			  <a class="topnavLink" id="topnavLogo" href="/"><img src=/assets/small-logo.png style="height:46px;"></a>
-			  <a class="topnavLink" id="topnavAbout" href="/about">about</a>
-			  <a class="topnavLink" href="https://medium.com/@holdensparacino" target="_blank">blog</a>
-			  <a class="topnavLink" id="topnavWork" href="/work">work</a>
+			  <ul>
+				  <li data-responsive-sort="3">
+					  <a class="topnavLink" id="topnavAbout" href="/about">about</a></li>
+				  <li data-responsive-sort="2">
+						<a class="topnavLink" href="https://medium.com/@holdensparacino" target="_blank">blog</a></li>
+				  <li data-responsive-sort="1">
+					  <a class="topnavLink" id="topnavWork" href="/work">work</a></li>
+				  </ul>
 			  <a href="javascript:void(0);" class="icon" id="myIcon" onclick="toggleMenu()">&#8942;</a>
 		  </div>
 	  </div>
