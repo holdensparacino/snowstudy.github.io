@@ -17,8 +17,7 @@
   --line-break-color: #eff0f1;
   --default-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   --hover-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.4);
-  --responsive-width: 400px;
-  }
+    }
 
 /* Top navigation menu styling */
 
@@ -92,7 +91,7 @@ div.shade {
 
 /*Responsive menu styling */
 
-@media screen and (max-width: var(--responsive-width)) {
+@media screen and (max-width: 400px) {
   .topnav a:not(:first-child) {display: none;}
   .topnav a.icon {
     float: right;
