@@ -61,11 +61,13 @@
   <body  onload="toggleActive()">
 	  <div class="topnav-box">
 		  <div class="topnav" id="myTopnav" onload="toggleMenu()">
-			  <a class="topnavLink" id="topnavLogo" href="/"><img src=/assets/small-logo.png style="height:46px;"></a>
-			  <a class="topnavLink" id="topnavAbout" href="/about">about</a>
-			  <a class="topnavLink" href="https://medium.com/@holdensparacino" target="_blank">blog</a>
-			  <a class="topnavLink" id="topnavWork" href="/work">work</a>
-			  <a href="javascript:void(0);" class="icon" id="myIcon" onclick="toggleMenu()">&#8942;</a>
+			  <ul>
+				  <li><a class="topnavLink" id="topnavLogo" href="/"><img src=/assets/small-logo.png style="height:46px;"></a></li>
+				<li><a class="topnavLink" id="topnavAbout" href="/about">about</a></li>
+					<li><a class="topnavLink" href="https://medium.com/@holdensparacino" target="_blank">blog</a></li>
+						<li><a class="topnavLink" id="topnavWork" href="/work">work</a></li>
+							<li><a href="javascript:void(0);" class="icon" id="myIcon" onclick="toggleMenu()">&#8942;</a></li>
+							</ul>
 		  </div>
 	  </div>
 	  <div class="top-spacer"></div>
