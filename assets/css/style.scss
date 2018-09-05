@@ -135,6 +135,9 @@ height: 68px;
   background-size: cover;
   position: relative;
   padding: 5em 2em;
+  -moz-box-shadow: inset 0px 11px 8px -10px #000000, inset 0px -11px 8px -10px #000000;
+	-webkit-box-shadow: inset 0px 11px 8px -10px #000000, inset 0px -11px 8px -10px #000000;
+	box-shadow: inset 0px 11px 8px -10px #000000, inset 0px -11px 8px -10px #000000;
 }
 
 .page-header.active {
