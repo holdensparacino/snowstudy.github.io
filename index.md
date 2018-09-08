@@ -5,8 +5,8 @@
   </div>
 </div>
 
-<div class="card" id="card-research" style="cursor: pointer;" onClick=""window.location='/research'>
-    <div class="card-container">
+<div class="card" id="card-container" style="cursor: pointer;" onClick=""window.location='/research'>
+    <div class="card-research">
     <h2>Research</h2>
     <p>Road salt impacts and management practice research</p>
   </div>
