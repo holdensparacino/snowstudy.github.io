@@ -51,12 +51,12 @@
   margin: auto;
 }
 
-.topnav a:not(#topnavLogo, #topnavTitle):hover, .topnavLink.active {
+.topnav a:not #topnavLogo #topnavTitle :hover, .topnavLink.active {
   color: var(--text-color);
   border-bottom: 5px solid var(--secondary-theme-color);
 }
 
-.topnav a #topnavLogo, .topnav a #topnavTitle {
+.topnav #topnavLogo, .topnav #topnavTitle {
   float: left;
 }
 
@@ -96,7 +96,7 @@ div.shade {
 /*Responsive menu styling */
 
 @media screen and (max-width: 600px) {
-  .topnav a:not(#topnavIcon, #topnavTitle) {display: none;}
+  .topnav a:not #topnavIcon #topnavTitle {display: none;}
   .topnav a.icon {
     float: right;
     display: block;
