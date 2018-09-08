@@ -4,13 +4,11 @@ title: Research
 description: research on road salt impacts and best management practices
 ---
 
-## Research
-
 ![Lake Champlain](/assets/lake-champlain.jpg)
 
 ## Project Research
 
-### [2017 Lake Champlain Deicing Conference](https://lcwroadsalt.wixsite.com/conference/2017-conference)
+### _[2017 Lake Champlain Deicing Conference](https://lcwroadsalt.wixsite.com/conference/2017-conference)_
 
 Recorded talks, presentations, and other resources from the 2017 conference hosted at the University of Vermont.
 - [Best Management Practices](https://lcwroadsalt.wixsite.com/conference/bmp-s)
@@ -20,9 +18,9 @@ Recorded talks, presentations, and other resources from the 2017 conference host
 
 ## External Resources
 
-### [Salting our Freshwater Lakes](http://www.lcbp.org/publications/salting-freshwater-lakes/)
+### __[Salting our Freshwater Lakes](http://www.lcbp.org/publications/salting-freshwater-lakes/)__
 
-Dugan et al. (2017) <em>Proceedings of the National Academy of Sciences</em>
+Dugan et al. (2017) *Proceedings of the National Academy of Sciences*
  - [Press: Road salt is making North America’s freshwater lakes, well, saltier](https://news.wisc.edu/road-salt-is-making-north-americas-freshwater-lakes-well-saltier/)
 
 ### [Transportation Association of Canada - Salt Use on Private Roads, Parking Lots and Walkways](http://www.tac-atc.ca/sites/tac-atc.ca/files/site/doc/resources/roadsalt-10.pdf)
