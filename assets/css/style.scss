@@ -6,9 +6,8 @@
 /* Theme color and spacing variables */
 
 :root {
-  --primary-theme-color: rgba(0, 77, 57, 1);
-  --primary-theme-color-fade: rgba(0, 77, 57, 0.5);
-  --secondary-theme-color: rgba(0, 153, 112, 1);
+  --primary-theme-color: rgb(0, 8, 77);
+  --secondary-theme-color: rgb(0, 28, 153);
   --background-color: rgba(255, 255, 255, 1.0);
   --text-color: rgba(0, 0, 0, 1.0);
   --text-color-fade: rgba(0, 0, 0, 0.4);
@@ -97,7 +96,7 @@ div.shade {
 
 /*Responsive menu styling */
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 600px) {
   .topnav a:not(:first-child) {display: none;}
   .topnav a.icon {
     float: right;
@@ -144,21 +143,13 @@ height: 68px;
   display: block;
   }
 
-/* Card images for index and portfolio pages */
+/* Card images for resources and research pages */
 
-#card-deicing-conference {
+}
+#card-resources {
   background-image: url("/assets/deicing-conference.jpg");
 }
-#card-volmon {
-  background-image: url("/assets/volmon.jpg");
-}
-#card-allarmwater {
-  background-image: url("/assets/allarmwater.jpg");
-}
-#card-netherlands {
-  background-image: url("/assets/netherlands.jpg");
-}
-#card-blog {
+#card-research {
   background-image: url("/assets/lake-champlain.jpg");
 }
 
@@ -178,7 +169,7 @@ body {
 }
 
 .project-name, .project-tagline {
-  color: var(--background-color);
+  color: var(--primary-theme-color);
   opacity: 1;
   margin-top: 0;
   margin-bottom: 0;

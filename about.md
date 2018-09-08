@@ -2,20 +2,11 @@
 layout: default
 title: About
 ---
-<div class="content-block">
-  <h1 class="featured-text split-intro" id="profile-intro">About Me
-  </h1>
-  </div>
-<div class="content-block">
-  <img src="/assets/profile.png" class="split-img">
-  </div>
 
-I am a graduate research student at the University of Vermont, interested in connecting communities to decisions about their water resources. 
+SnowStudy.org is a collection of resources for private contractors and research conducted on road salt impacts and best management practices. 
 
-My thesis work aims to understand the practices that winter maintenance and snow removal private contractors adopt, the areas serviced and materials and equipment involved, and how snow removal companies learn best management practices. Ultimately, a long-term outcome of this work is to form recommendations and resources for private contractors aiming to reduce their environmental impacts on surface waters.
+The site is maintained and designed by [Holden Sparacino](https://holdensparacino.com) as part of a thesis project researching the practices that winter maintenance and snow removal private contractors adopt, the areas serviced and materials and equipment involved, and how snow removal companies learn best management practices. Ultimately, a long-term outcome of this work is to form recommendations and resources for private contractors aiming to reduce their environmental impacts on surface waters.
 
-Outside of my research, I am passionate about getting people on bikes, getting myself outside and traveling, and the occasional DIY project. Originally from California, I left for the East Coast a decade ago and have been adjusting to the winters ever since.
-
-Here you'll find a mixture of my ongoing projects and personal pursuits. Enjoy!
+This research and thesis is funded by the [National Oceanic and Atmospheric Administration](http://noaa.gov/), [Lake Champlain Sea Grant](https://www.uvm.edu/seagrant), [UVM Extension](https://www.uvm.edu/extension), [The University of Vermont Rubenstein School of Environment and Natural Resources](https://www.uvm.edu/rsenr), the [North American Lake Management Society (NALMS)](https://www.nalms.org/), and the [Rubenstein Graduate Student Association](https://www.uvm.edu/rsenr/rubenstein_graduate_student_association_rgsa).
 
 <iframe id="contact-form" src="https://docs.google.com/forms/d/e/1FAIpQLSdF2-jt4IzQfpnvxtYXM8EoDYN46iPiZ6D-wnoplDk7bBUtjg/viewform?embedded=true" width="500" height="670" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>

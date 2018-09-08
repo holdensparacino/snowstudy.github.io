@@ -2,28 +2,29 @@
 
 ![Deicing Conference](/assets/deicing-conference.jpg)
 
-In 2017, UVM hosted the first [Lake Champlain Deicing Conference](https://lcwroadsalt.wixsite.com/conference) for municipal workers and private companies to learn about winter best management practices, including techniques to reduce environmental impacts of road salt.
+UVM hosts an annual conference for municipal workers and private companies to learn about winter best management practices, including techniques to reduce environmental impacts of road salt.
 
-I assisted in the planning and coordination of the conference, including speaker scheduling and organization, gathering feedback, and documenting presentations.
-
-The conference was well attended, leading to plans of future conferences in the area in order to continue to engage with municipalities and private contractors on the environemental impacts of winter road maintenance on the Lake Champlain Basin and mitigation efforts.
+The 2018 Deicing Conference is currently seeking sponsors! [Find out more](https://www.uvm.edu/seagrant/deicing-conference).
 
 ## Learn more
+- [2018 Deicing Conference](https://www.uvm.edu/seagrant/deicing-conference)
+- [2017 Lake Champlain Deicing Conference homepage](https://lcwroadsalt.wixsite.com/conference)
+- [2017 Recorded Conference talks](https://lcwroadsalt.wixsite.com/conference/2017-conference)
 
+## Press
 - [Free Road Salt Conference to be held in Burlington - VTdigger.org](https://vtdigger.org/2017/09/07/free-road-salt-conference-held-burlington/)
 - [Road Salt and Deicing Event to Take Place at UVM - University of Vermont](https://www.uvm.edu/newsstories/news/road-salt-and-deicing-event-take-place-uvm)
-- [2017 Lake Champlain Deicing Conference homepage](https://lcwroadsalt.wixsite.com/conference)
-- [Recorded Conference talks](https://lcwroadsalt.wixsite.com/conference/2017-conference)
+- [Champlain Watershed Road Salt Deicing Conference Planned - Adirondack Almanack](https://www.adirondackalmanack.com/2017/09/road-salt-deicing-conference-planned.html)
 
-<div class="card" id="card-allarmwater" style="cursor: pointer;" onClick="window.location='/work';">
+<div class="card" id="card-resources" style="cursor: pointer;" onClick="window.location='/resources';">
     <div class="card-container">
-    <h2>Other Projects</h2>
-    <p>Learn more about other current and past projects</p>
+    <h2>Resources</h2>
+    <p>Information on events and management practices</p>
   </div>
 </div>
-<div class="card" id="card-blog" style="cursor: pointer;" onClick="window.open('https://medium.com/@holdensparacino/latest', '_blank')">
+<div class="card" id="card-research" style="cursor: pointer;" onClick=""window.location='/research'>
     <div class="card-container">
-    <h2>Latest Blog Post</h2>
-    <p>Writing about my research, travels, and ongoing work</p>
+    <h2>Research</h2>
+    <p>Road salt impacts and management practice research</p>
   </div>
 </div>
