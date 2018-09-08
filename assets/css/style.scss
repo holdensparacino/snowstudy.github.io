@@ -51,7 +51,7 @@
   margin: auto;
 }
 
-.topnav a:not(:first-child):hover, .topnav a:not(#topnavTitle), .topnavLink.active {
+.topnav a:not(:first-child):hover, .topnavLink.active {
   color: var(--text-color);
   border-bottom: 5px solid var(--secondary-theme-color);
 }
@@ -96,7 +96,7 @@ div.shade {
 /*Responsive menu styling */
 
 @media screen and (max-width: 600px) {
-  .topnav a:not(:first-child), {display: none;}
+  .topnav a:not(:first-child), .topnav:not #topnavTitle {display: none;}
   .topnav a.icon {
     float: right;
     display: block;
