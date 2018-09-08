@@ -8,31 +8,22 @@ description: research on road salt impacts and best management practices
 
 ## Project Research
 
-### [2017 Lake Champlain Deicing Conference](https://lcwroadsalt.wixsite.com/conference/2017-conference)
+- [2017 Lake Champlain Deicing Conference: Conference Presentations](https://lcwroadsalt.wixsite.com/conference/2017-conference)
 
-Recorded talks, presentations, and other resources from the 2017 conference hosted at the University of Vermont.
-- [Best Management Practices](https://lcwroadsalt.wixsite.com/conference/bmp-s)
-- [Conference Presentations](https://lcwroadsalt.wixsite.com/conference/2017-conference)
+## Best Management Practices
 
-<div class="line-break"></div>
+- [ClearRoads.org - Manual of Best Management Practices](http://clearroads.org/wp-content/uploads/dlm_uploads/0537_2015-Clear-Roads-Best-Practice-Guide-WEB.pdf)
+- [Transportation Association of Canada - Salt Use on Private Roads, Parking Lots and Walkways](http://www.tac-atc.ca/sites/tac-atc.ca/files/site/doc/resources/roadsalt-10.pdf)
+- [Fund for Lake George Save the Lake Summit](https://fundforlakegeorge.org/saltsummit2015)
 
-## External Resources
+## Environmental Impacts
 
-### [Salting our Freshwater Lakes](http://www.lcbp.org/publications/salting-freshwater-lakes/)
+- [Road salt is making North America’s freshwater lakes, well, saltier](https://news.wisc.edu/road-salt-is-making-north-americas-freshwater-lakes-well-saltier/)
+- [Salting our Freshwater Lakes](http://www.lcbp.org/publications/salting-freshwater-lakes/). Dugan et al. (2017) *Proceedings of the National Academy of Sciences.*
+- [Corrina Parnapy: The Impact of Road Salt (VT Digger)](https://vtdigger.org/2017/01/12/corrina-parnapy-impact-road-salt/)
+- [Road Salt Applications Catch the Attention of Vermont District](http://www.nacdnet.org/2017/02/06/tis-season-road-salt-applications-catch-attention-vermont-district/)
+ 
+## Case Studies
 
-Dugan et al. (2017) *Proceedings of the National Academy of Sciences*
- - [Press: Road salt is making North America’s freshwater lakes, well, saltier](https://news.wisc.edu/road-salt-is-making-north-americas-freshwater-lakes-well-saltier/)
-
-### [Transportation Association of Canada - Salt Use on Private Roads, Parking Lots and Walkways](http://www.tac-atc.ca/sites/tac-atc.ca/files/site/doc/resources/roadsalt-10.pdf)
-
-Synthesis of best practices for a variety of services private companies provide
-
-### [Fund for Lake George Save the Lake Summit](https://fundforlakegeorge.org/saltsummit2015)
-
-Trainings and talks from the Fund for Lake George's annual summit.
-- [Salt Brine Equipment Demo](https://www.youtube.com/watch?v=KOasDmnEBzo)
-- [Live-Edge Plow Equipment Demo](https://www.youtube.com/watch?v=se2cTVPa0SY)
-
-### [ClearRoads.org - Manual of Best Management Practices](http://clearroads.org/wp-content/uploads/dlm_uploads/0537_2015-Clear-Roads-Best-Practice-Guide-WEB.pdf)
-
-A manual of best management practices and their advantages for municipal workers and private companies
+- [Town of Lake George to Use Brine and Lessen Road Salt Usage](https://www.lakegeorge.com/whatsnew/2017/02/town-switches-to-brine-on-roads/)
+- [Environment Canada: Success Stories](https://www.canada.ca/en/environment-climate-change/services/pollutants/road-salts/success-management-case-studies.html)
