@@ -27,7 +27,6 @@
   z-index: 5;
   top: 0;
   background-color: var(--background-color);
-  
 }
 
 .topnav {
@@ -173,6 +172,7 @@ body {
   margin-top: 0;
   margin-bottom: 0;
   padding: 4%
+  text-shadow: 2px 2px 8px var(--background-color);
 }
 
 .hidden-link, .hidden-link:hover {

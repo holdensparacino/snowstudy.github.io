@@ -22,6 +22,8 @@ Recorded talks, presentations, and other resources from the 2017 conference host
 - [Best Management Practices](https://lcwroadsalt.wixsite.com/conference/bmp-s)
 - [Conference Presentations](https://lcwroadsalt.wixsite.com/conference/2017-conference)
 
+<div class="line-break"></div>
+
 ## External Resources
 
 ### [Fund for Lake George Save the Lake Summit](https://fundforlakegeorge.org/saltsummit2015)

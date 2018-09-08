@@ -4,9 +4,9 @@ title: Research
 description: research on road salt impacts and best management practices
 ---
 
-![Lake Champlain](/assets/lake-champlain.jpg)
+## Research
 
-<h3 class="featured-text">Resources and outreach materials on best management practices and low-impact snow removal techniques for private contractors</h3>
+![Lake Champlain](/assets/lake-champlain.jpg)
 
 ## Project Research
 
@@ -15,6 +15,8 @@ description: research on road salt impacts and best management practices
 Recorded talks, presentations, and other resources from the 2017 conference hosted at the University of Vermont.
 - [Best Management Practices](https://lcwroadsalt.wixsite.com/conference/bmp-s)
 - [Conference Presentations](https://lcwroadsalt.wixsite.com/conference/2017-conference)
+
+<div class="line-break"></div>
 
 ## External Resources
 
