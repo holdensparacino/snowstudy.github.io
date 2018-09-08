@@ -51,12 +51,12 @@
   margin: auto;
 }
 
-.topnav a:not(:first-child, :nth-child(2)):hover, .topnavLink.active {
+.topnav a:not(:first-child,):hover, topnav a:not(:nth-child(2)):hover, .topnavLink.active {
   color: var(--text-color);
   border-bottom: 5px solid var(--secondary-theme-color);
 }
 
-.topnav a:first-child, :nth-child(2) {
+.topnav a:first-child, .topnav a:nth-child(2) {
   float: left;
 }
 
