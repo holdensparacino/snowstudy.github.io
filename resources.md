@@ -8,13 +8,11 @@ description: materials on best management practices and low-impact snow removal 
 
 ## Project Resources
 
-<h3 class="featured-text">Resources and outreach materials on best management practices and low-impact snow removal techniques for private contractors</h3>
-
 ### [2018 Lake Champlain Deicing Conference](https://www.uvm.edu/seagrant/deicing-conference)
 
 October 10, 8am-2pm
 Presentations and training on best management practices, equipment and services expo and demonstrations for municipal and private snow removal professionals.
-- [Sponsor/exhibitor information](https://www.uvm.edu/seagrant/sites/default/files/uploads/ExhibitSponsorBrochure2018_FINAL.pdf)
+- [Sponsor/exhibitor signup](https://www.uvm.edu/seagrant/sites/default/files/uploads/ExhibitSponsorBrochure2018_FINAL.pdf)
 
 ### [2017 Lake Champlain Deicing Conference](https://lcwroadsalt.wixsite.com/conference)
 
