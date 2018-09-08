@@ -96,7 +96,7 @@ div.shade {
 /*Responsive menu styling */
 
 @media screen and (max-width: 600px) {
-  .topnav a:not(:first-child), .topnav #topnavTitle:not {display: none;}
+  .topnav a:not(:first-child), .topnav:not #topnavTitle {display: none;}
   .topnav a.icon {
     float: right;
     display: block;
