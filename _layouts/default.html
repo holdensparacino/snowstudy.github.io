@@ -4,6 +4,7 @@
 <head>
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 	<meta charset="UTF-8"> {% seo %}
+	<meta name="site.title" content="SnowStudy.org">
 	<meta name="viewport" content="width=device-width, initial-scale=1 user-scalable=no">
 	<meta name="theme-color" content="#157878">
 	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -79,7 +80,7 @@
 	<div class="top-spacer"></div>
 
 	<header class="page-header" role="banner" id="theHeader">
-		<h1 class="project-name">{{ SnowStudy.org }}</h1>
+		<h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
 		<h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 	</header>
 	<a href="javascript:void(0);" onclick="toggleMenu()"><div class="shade" id="myShade"></div></a>
