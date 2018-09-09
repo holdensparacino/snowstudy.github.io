@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: SnowStudy
 description: Research and resources on snow removal management practices
-google_analytics: UA-71628943-4
+google_analytics: UA-71628943-5
 plugins:
   - jekyll-sitemap
