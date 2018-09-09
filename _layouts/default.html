@@ -10,13 +10,17 @@
 	<link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
 	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-71628943-1"></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag() { dataLayer.push(arguments); }
-		gtag('js', new Date());
-		gtag('config', 'UA-71628943-1');
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-71628943-5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'UA-71628943-5');
+</script>
+
+<!-- Adding active class (underline) to pages -->
+<script>
 		function toggleActive() {
 			var x = document.getElementById("theHeader");
 			var y = document.getElementById("topnavResearch");
@@ -48,6 +52,7 @@
 			}
 		}
 	</script>
+
 	<script language="javascript">
 		/* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
 		function toggleMenu() {
@@ -118,17 +123,6 @@
 			<ul class="footer-list">
 				<li>
 					<a href="https://holdensparacino.com" target="blank">Designed by Holden Sparacino</a>
-				</li>
-				<li>
-					<a href="/site-description">©
-					<script language="JavaScript" type="text/javascript">
-					now = new Date
-					theYear = now.getYear()
-					if (theYear < 1900)
-					theYear = theYear + 1900
-					document.write(theYear)
-					</script>
-					</a>
 				</li>
 			</ul>
 		</footer>
