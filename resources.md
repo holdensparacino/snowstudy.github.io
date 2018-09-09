@@ -4,9 +4,9 @@ title: Resources
 description: materials on best management practices and low-impact snow removal techniques for private contractors
 ---
 
-![Deicing Conference](/assets/deicing-conference.jpg)
-
 ## Project Resources
+
+![Deicing Conference](/assets/deicing-conference.jpg)
 
 ### [2018 Lake Champlain Deicing Conference](https://www.uvm.edu/seagrant/deicing-conference){:target="_blank"}
 
