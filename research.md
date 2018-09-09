@@ -4,17 +4,17 @@ title: Research
 description: research on road salt impacts and best management practices
 ---
 
-![Presentation](/assets/presentation.jpg)
-
 ## Project Research
+
+![Presentation](/assets/presentation.jpg)
 
 - [2017 Lake Champlain Deicing Conference: Conference Presentations](https://lcwroadsalt.wixsite.com/conference/2017-conference){:target="_blank"}
 
 ### Project Presentations
 
-- **Sparacino, H.**, Stepenuck, K. (2018). [Winter Maintenance Best Practices: Identifying and Lowering Private Contractors' Barriers to Adoption](https://www.uvm.edu/sites/default/files/media/Final_2018_Program.pdf#page=6){:target="_blank"}. *University of Vermont Student Research Conference*.
-- **Sparacino, H.**, Stepenuck, K. (2018). [Winter Maintenance Best Practices: Identifying and Lowering Private Contractors' Barriers to Adoption](http://www.lcbp.org/water-environment/data-monitoring/lake-champlain-research-conference/){:target="_blank"}. *Lake Champlain Research Conference*.
-- **Sparacino, H.**, Stepenuck, K. (2017). [Winter Maintenance Best Practices: Identifying and Lowering Private Contractors' Barriers to Adoption](https://www.youtube.com/watch?v=F_WgywbjZYY){:target="_blank"}. *University of Vermont Graduate Research Symposium*.
+- Sparacino, H., Stepenuck, K. (2018). [Winter Maintenance Best Practices: Identifying and Lowering Private Contractors' Barriers to Adoption](https://www.uvm.edu/sites/default/files/media/Final_2018_Program.pdf#page=6){:target="_blank"}. *University of Vermont Student Research Conference*.
+- Sparacino, H., Stepenuck, K. (2018). [Winter Maintenance Best Practices: Identifying and Lowering Private Contractors' Barriers to Adoption](http://www.lcbp.org/water-environment/data-monitoring/lake-champlain-research-conference/){:target="_blank"}. *Lake Champlain Research Conference*.
+- Sparacino, H., Stepenuck, K. (2017). [Winter Maintenance Best Practices: Identifying and Lowering Private Contractors' Barriers to Adoption](https://www.youtube.com/watch?v=F_WgywbjZYY){:target="_blank"}. *University of Vermont Graduate Research Symposium*.
 
 ## Best Management Practices
 
