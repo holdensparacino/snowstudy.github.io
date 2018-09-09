@@ -9,7 +9,7 @@ This site is designed to be a resource for snow removal companies on information
 
 ## Site Usage
 
-External projects and work linked to through this site may indicate specific usage licenses. Unless otherwise noted, content on this site is copyrighted. 
+External projects and work linked to through this site may indicate specific usage licenses. 
 
 If you would like to use this content in other ways, or have questions about this site, please contact me below.
 
