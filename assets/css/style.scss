@@ -51,12 +51,12 @@
   margin: auto;
 }
 
-.topnav a:not(:first-child):hover, .topnav  .topnavLink.active {
+.topnav a:not(:first-child):hover, .topnavLink.active {
   color: var(--text-color);
   border-bottom: 5px solid var(--secondary-theme-color);
 }
 
-.topnav a:first-child, .topnav a:nth-child(2) {
+.topnav a:first-child {
   float: left;
 }
 
@@ -74,7 +74,7 @@
 }
 
 @media screen and (max-width: 900px) {
-  #topnavLogo {
+  #topnavLogo, #topnavTitle {
     padding: 11px 14px;
   }
 }
