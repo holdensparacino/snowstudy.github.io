@@ -10,7 +10,7 @@ description: research on road salt impacts and best management practices
 
 ### Conferences
 
--[2018 Lake Champlain Deicing Conference](https://www.uvm.edu/seagrant/deicing-conference){:target="_blank"}
+- [2018 Lake Champlain Deicing Conference](https://www.uvm.edu/seagrant/deicing-conference){:target="_blank"}
 - [2017 Lake Champlain Deicing Conference: Conference Presentations](https://lcwroadsalt.wixsite.com/conference/2017-conference){:target="_blank"}
 
 ### Project Presentations

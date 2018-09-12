@@ -4,7 +4,7 @@
 
 UVM hosts an annual conference for municipal workers and private companies to learn about winter best management practices, including techniques to reduce environmental impacts of road salt.
 
-Registration is open for the 2018 Deicing Conference! [Find out more](https://www.uvm.edu/seagrant/deicing-conference){:target="_blank"}.
+[Registration is now open](https://www.uvm.edu/seagrant/deicing-conference){:target="_blank"} for the 2018 Deicing Conference! [Find out more](https://www.uvm.edu/seagrant/deicing-conference){:target="_blank"}.
 
 ## Learn more
 

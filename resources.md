@@ -10,7 +10,12 @@ description: materials on best management practices and low-impact snow removal 
 
 ### [2018 Lake Champlain Deicing Conference](https://www.uvm.edu/seagrant/deicing-conference){:target="_blank"}
 
+[Register here](https://www.uvm.edu/seagrant/deicing-conference){:target="_blank"}
+
 October 10, 8am-2pm
+
+University of Vermont, Davis Center and Spear Street Lab
+
 Presentations and training on best management practices, equipment and services expo and demonstrations for municipal and private snow removal professionals.
 - [Sponsor/exhibitor signup](https://www.uvm.edu/seagrant/sites/default/files/uploads/ExhibitSponsorBrochure2018_FINAL.pdf){:target="_blank"}
 
