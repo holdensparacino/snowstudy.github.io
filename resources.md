@@ -9,7 +9,7 @@ description: materials on best management practices and low-impact snow removal 
 ### [2018 Lake Champlain Deicing Conference](https://www.uvm.edu/seagrant/deicing-conference){:target="_blank"}
 
 Presentations and training on best management practices, equipment and services expo and demonstrations for municipal and private snow removal professionals.
-- [Conference page and recorded talks](https://www.uvm.edu/seagrant/deicing-conference)){:target="_blank"}
+- [Conference page and recorded talks](https://www.uvm.edu/seagrant/deicing-conference){:target="_blank"}
 - [Final Agenda](https://www.uvm.edu/seagrant/sites/default/files/uploads/ExhibitSponsorBrochure2018_FINAL.pdf){:target="_blank"}
 
 ### [2017 Lake Champlain Deicing Conference](https://lcwroadsalt.wixsite.com/conference){:target="_blank"}
