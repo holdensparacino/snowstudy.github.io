@@ -1,14 +1,29 @@
 ## Resources from Holden Sparacino thesis defense
 
+- Clear Roads Institute. (n.d.). Clear Roads National Winter Safety Campaign. Retrieved from http://clearroads.org/national-winter-safety-campaign/
 - Corsi, S. R., Graczyk, D. J., Geis, S. W., Booth, N. L., & Richards, K. D. (2010). A fresh look at road salt: Aquatic toxicity and water-quality impacts on local, regional, and national scales. Environmental Science and Technology, 44(19), 7376–7382. https://doi.org/10.1021/es101333u
+- Creswell, J. W., & Plano Clark, V. L. (2007). Designing and Conducting Mixed Methods Research. Thousand Oaks, CA: Sage Publications, Inc.
 - Dugan, H. A., Bartlett, S. L., Burke, S. M., Doubek, J. P., Krivak-Tetley, F. E., Skaff, N. K., … Weathers, K. C. (2017). Salting our freshwater lakes. Proceedings of the National Academy of Sciences, 114(17), 4453–4458. https://doi.org/10.1073/pnas.1620211114
 - Environment and Climate Change Canada. (2013). Success in Road Salts Management: Case Studies. Retrieved from https://www.canada.ca/en/environment-climate-change/services/pollutants/road-salts/success-management-case-studies.html
+- Fischel, M. (2001). Evaluation of Selected Deicers Based on a Review of the Literature.
 - Lake Champlain Basin Program. (2018). Lake Champlain Basin Atlas: About the Atlas. Retrieved from http://atlas.lcbp.org/about-the-atlas/
+- Kelting, D. L., & Laxson, C. L. (2010). Review of Effects and Costs of Road De-icing with Recommendations for Winter Road Management in the Adirondack Park. Adirondack Watershed Institute, Paul Smith’s College.
+- Lindberg, T. (2009). Low Sodium Diet, (January), 98104.
+- Mckenzie-Mohr, D. (2011). Fostering Sustainable Behavior: An Introduction to Community-Based Social Marketing (Third Edit). Gabriola Island, BC, Canada: New Society Publishers.
+- Monroe, M. (2003). Two Avenues for Encouraging Conservations Behaviors. Human Ecology Review, 10(2), 113–125. https://doi.org/10.1177/1086026601141001
+- New Hampshire Department of Environmental Services. (n.d.). NH Voluntary Salt Applicator Certification & Liability Protection. Retrieved from https://www.des.nh.gov/organization/divisions/water/wmb/was/salt-reduction-initiative/salt-applicator-certification.htm
+- New Hampshire Department of Environmental Services. (2014). New Hampshire Code of Administrative Rules: Chapter Env-Wq 2200 Voluntary Certified Salt Applicator Program. Retrieved from https://www.des.nh.gov/organization/commissioner/legal/rules/documents/env-wq2200.pdf
 - Nixon, W., & DeVries, R. M. (2015). Development of a Handbook of Best Management Practices for Road Salt in Winter Maintenance Operations.
+- Ramakrishna, D. M., & Viraraghavan, T. (2005). Environmental Impact of Chemical Deicers -- A Review. Water, Air, and Soil Pollution, 166(1), 49–63. https://doi.org/10.1007/s11270-005-8265-9
+- Salt Institute. (n.d.). Safe and Sustainable Snowfighting. Retrieved from http://www.saltinstitute.org/road/snowfighting/
 - Shi, X., Veneziano, D., Xie, N., & Gong, J. (2013). Use of chloride-based ice control products for sustainable winter maintenance: A balanced perspective. Cold Regions Science and Technology, 86, 104–112. https://doi.org/10.1016/j.coldregions.2012.11.001
+- Snow and Ice Management Association (SIMA). (n.d.). Training. Retrieved from https://www.sima.org/education/training
 - State of Vermont. (2018). Vermont Open Geodata Portal. Retrieved from http://geodata.vermont.gov/
+- Tenenbaum, D. (2008). Transportation: De-Icers Add Sweet to Salt. Environmental Health Perspectives, 116(11), A476.
 - Transportation Association of Canada. (n.d.). Synthesis of Best Practices. Retrieved from https://www.tac-atc.ca/en/bookstore-and-resources/free-resources-and-tools/syntheses-practice
 - Transportation Association of Canada. (2013). Salt Use on Private Roads, Parking Lots and Walkways.
+- Trowbridge, P. (2007). DATA Report for the Total Maximum Daily Loads for Chloride For Waterbodies in the Vicinity of the I-93 Corridor From Massachusetts to Manchester , NH : Dinsmore Brook North Tributary to Canobie Lake.
+- Trowbridge, P. R., Kahl, J. S., Sassan, D. A., Heath, D. L., & Walsh, E. M. (2010). Relating road salt to exceedances of the water quality standard for chloride in new hampshire streams. Environmental Science and Technology, 44(13), 4903–4909. https://doi.org/10.1021/es100325j
 - Trombulak, S. C., & Frissell, C. A. (2000). Society for Conservation Biology Review of Ecological Effects of Roads on Terrestrial and Aquatic Communities Review of Ecological Effects of Roads on Terrestrial and Aquatic Commnunities. Source: Conservation Biology Conservation Biology, 14(1), 18–30.
 - United States Census Bureau. (2018). TIGER Products. Retrieved from https://www.census.gov/geo/maps-data/data/tiger.html
 - United States Environmental Protection Agency. (2015). Lake Champlain Basin SWAT Model Configuration, Calibration and Validation, (April), 52.
