@@ -1,4 +1,5 @@
-## Resources from Holden Sparacino thesis defense
+## Holden Sparacino's thesis defense: 
+### References
 
 - Clear Roads Institute. (n.d.). Clear Roads National Winter Safety Campaign. Retrieved from http://clearroads.org/national-winter-safety-campaign/
 - Corsi, S. R., Graczyk, D. J., Geis, S. W., Booth, N. L., & Richards, K. D. (2010). A fresh look at road salt: Aquatic toxicity and water-quality impacts on local, regional, and national scales. Environmental Science and Technology, 44(19), 7376–7382. https://doi.org/10.1021/es101333u
